@@ -1,0 +1,3 @@
+auxiliary:
+ - name: "TTH"
+   permutation: [0,5,1,2,3,7,6,4,8,9,10]

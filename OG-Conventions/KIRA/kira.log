@@ -1,0 +1,3267 @@
+25 Fermat/Blackbox instances will be run in parallel.
+The user defined environment variable FERMATPATH for Fermat is set:
+/home/dschiebe/installs/Ferl7/fer64
+The directories for the temporary files, result files and the sector mapping files are: 
+./tmp
+./results
+./sectormappings
+One variable is set to 1: {}
+Kira prepares topology: TTH and top level sector: 
+255 
+
+*****Integral ordering*************************************
+VERSION table created successfully
+Kira database version number: 2.1
+WEIGHTBITS table created successfully
+INTEGRALORDERING table created successfully
+Kira will use the integral ordering: 1.
+With topology: TTH use intermediate permutation
+0 5 1 2 3 7 6 4 8 9 10 
+With topology: TTH use intermediate permutation
+0 5 1 2 3 7 6 4 8 9 10 
+With topology: TTH use intermediate permutation
+0 5 1 2 3 7 6 4 8 9 10 
+With topology: TTH use intermediate permutation
+0 5 1 2 3 7 6 4 8 9 10 
+With topology: TTH use intermediate permutation
+0 5 1 2 3 7 6 4 8 9 10 
+With topology: TTH use intermediate permutation
+0 5 1 2 3 7 6 4 8 9 10 
+With topology: TTH use intermediate permutation
+0 5 1 2 3 7 6 4 8 9 10 
+With topology: TTH use intermediate permutation
+0 5 1 2 3 7 6 4 8 9 10 
+With topology: TTH use intermediate permutation
+0 5 1 2 3 7 6 4 8 9 10 
+With topology: TTH use intermediate permutation
+0 5 1 2 3 7 6 4 8 9 10 
+With topology: TTH use intermediate permutation
+0 5 1 2 3 7 6 4 8 9 10 
+With topology: TTH use intermediate permutation
+0 5 1 2 3 7 6 4 8 9 10 
+With topology: TTH use intermediate permutation
+0 5 1 2 3 7 6 4 8 9 10 
+With topology: TTH use intermediate permutation
+0 5 1 2 3 7 6 4 8 9 10 
+With topology: TTH use intermediate permutation
+0 5 1 2 3 7 6 4 8 9 10 
+With topology: TTH use intermediate permutation
+0 5 1 2 3 7 6 4 8 9 10 
+With topology: TTH use intermediate permutation
+0 5 1 2 3 7 6 4 8 9 10 
+With topology: TTH use intermediate permutation
+0 5 1 2 3 7 6 4 8 9 10 
+With topology: TTH use intermediate permutation
+0 5 1 2 3 7 6 4 8 9 10 
+With topology: TTH use intermediate permutation
+0 5 1 2 3 7 6 4 8 9 10 
+With topology: TTH use intermediate permutation
+0 5 1 2 3 7 6 4 8 9 10 
+With topology: TTH use intermediate permutation
+0 5 1 2 3 7 6 4 8 9 10 
+With topology: TTH use intermediate permutation
+0 5 1 2 3 7 6 4 8 9 10 
+With topology: TTH use intermediate permutation
+0 5 1 2 3 7 6 4 8 9 10 
+With topology: TTH use intermediate permutation
+0 5 1 2 3 7 6 4 8 9 10 
+With topology: TTH use intermediate permutation
+0 5 1 2 3 7 6 4 8 9 10 
+With topology: TTH use intermediate permutation
+0 5 1 2 3 7 6 4 8 9 10 
+With topology: TTH use intermediate permutation
+0 5 1 2 3 7 6 4 8 9 10 
+With topology: TTH use intermediate permutation
+0 5 1 2 3 7 6 4 8 9 10 
+With topology: TTH use intermediate permutation
+0 5 1 2 3 7 6 4 8 9 10 
+With topology: TTH use intermediate permutation
+0 5 1 2 3 7 6 4 8 9 10 
+With topology: TTH use intermediate permutation
+0 5 1 2 3 7 6 4 8 9 10 
+With topology: TTH use intermediate permutation
+0 5 1 2 3 7 6 4 8 9 10 
+With topology: TTH use intermediate permutation
+0 5 1 2 3 7 6 4 8 9 10 
+With topology: TTH use intermediate permutation
+0 5 1 2 3 7 6 4 8 9 10 
+With topology: TTH use intermediate permutation
+0 5 1 2 3 7 6 4 8 9 10 
+With topology: TTH use intermediate permutation
+0 5 1 2 3 7 6 4 8 9 10 
+With topology: TTH use intermediate permutation
+0 5 1 2 3 7 6 4 8 9 10 
+With topology: TTH use intermediate permutation
+0 5 1 2 3 7 6 4 8 9 10 
+With topology: TTH use intermediate permutation
+0 5 1 2 3 7 6 4 8 9 10 
+With topology: TTH use intermediate permutation
+0 5 1 2 3 7 6 4 8 9 10 
+With topology: TTH use intermediate permutation
+0 5 1 2 3 7 6 4 8 9 10 
+With topology: TTH use intermediate permutation
+0 5 1 2 3 7 6 4 8 9 10 
+With topology: TTH use intermediate permutation
+0 5 1 2 3 7 6 4 8 9 10 
+With topology: TTH use intermediate permutation
+0 5 1 2 3 7 6 4 8 9 10 
+With topology: TTH use intermediate permutation
+0 5 1 2 3 7 6 4 8 9 10 
+With topology: TTH use intermediate permutation
+0 5 1 2 3 7 6 4 8 9 10 
+With topology: TTH use intermediate permutation
+0 5 1 2 3 7 6 4 8 9 10 
+With topology: TTH use intermediate permutation
+0 5 1 2 3 7 6 4 8 9 10 
+With topology: TTH use intermediate permutation
+0 5 1 2 3 7 6 4 8 9 10 
+With topology: TTH use intermediate permutation
+0 5 1 2 3 7 6 4 8 9 10 
+With topology: TTH use intermediate permutation
+0 5 1 2 3 7 6 4 8 9 10 
+With topology: TTH use intermediate permutation
+0 5 1 2 3 7 6 4 8 9 10 
+With topology: TTH use intermediate permutation
+0 5 1 2 3 7 6 4 8 9 10 
+Following reductions will be performed for the topology: TTH
+Sector: 50 rmax: 3 smax: 0 dmax: 0 
+
+Sector: 56 rmax: 3 smax: 0 dmax: 0 
+
+Sector: 82 rmax: 5 smax: 0 dmax: 2 
+
+Sector: 146 rmax: 5 smax: 0 dmax: 2 
+
+Sector: 162 rmax: 3 smax: 0 dmax: 0 
+
+Sector: 58 rmax: 5 smax: 0 dmax: 1 
+
+Sector: 89 rmax: 4 smax: 0 dmax: 0 
+
+Sector: 90 rmax: 5 smax: 0 dmax: 1 
+
+Sector: 147 rmax: 5 smax: 0 dmax: 1 
+
+Sector: 169 rmax: 4 smax: 0 dmax: 0 
+
+Sector: 170 rmax: 5 smax: 0 dmax: 1 
+
+Sector: 178 rmax: 6 smax: 0 dmax: 2 
+
+Sector: 91 rmax: 6 smax: 0 dmax: 1 
+
+Sector: 122 rmax: 6 smax: 0 dmax: 1 
+
+Sector: 171 rmax: 5 smax: 0 dmax: 0 
+
+Sector: 186 rmax: 5 smax: 0 dmax: 0 
+
+Sector: 211 rmax: 6 smax: 0 dmax: 1 
+
+Sector: 242 rmax: 6 smax: 0 dmax: 1 
+
+Sector: 250 rmax: 6 smax: 0 dmax: 0 
+
+Sector: 251 rmax: 7 smax: 1 dmax: 0 
+
+Sector: 50 rmax: 5 smax: 1 dmax: 2 
+
+Sector: 56 rmax: 5 smax: 1 dmax: 2 
+
+Sector: 82 rmax: 6 smax: 1 dmax: 3 
+
+Sector: 146 rmax: 6 smax: 1 dmax: 3 
+
+Sector: 162 rmax: 5 smax: 1 dmax: 2 
+
+Sector: 58 rmax: 6 smax: 1 dmax: 2 
+
+Sector: 89 rmax: 6 smax: 1 dmax: 2 
+
+Sector: 88 rmax: 5 smax: 0 dmax: 2 
+
+Sector: 90 rmax: 6 smax: 1 dmax: 2 
+
+Sector: 147 rmax: 6 smax: 1 dmax: 2 
+
+Sector: 169 rmax: 5 smax: 1 dmax: 1 
+
+Sector: 170 rmax: 6 smax: 1 dmax: 2 
+
+Sector: 178 rmax: 7 smax: 1 dmax: 3 
+
+Sector: 91 rmax: 7 smax: 1 dmax: 2 
+
+Sector: 83 rmax: 6 smax: 0 dmax: 2 
+
+Sector: 120 rmax: 6 smax: 0 dmax: 2 
+
+Sector: 122 rmax: 7 smax: 1 dmax: 2 
+
+Sector: 114 rmax: 6 smax: 0 dmax: 2 
+
+Sector: 171 rmax: 6 smax: 1 dmax: 1 
+
+Sector: 163 rmax: 5 smax: 0 dmax: 1 
+
+Sector: 184 rmax: 5 smax: 0 dmax: 1 
+
+Sector: 186 rmax: 6 smax: 1 dmax: 1 
+
+Sector: 211 rmax: 7 smax: 1 dmax: 2 
+
+Sector: 210 rmax: 6 smax: 0 dmax: 2 
+
+Sector: 242 rmax: 7 smax: 1 dmax: 2 
+
+Sector: 248 rmax: 6 smax: 0 dmax: 1 
+
+Sector: 250 rmax: 7 smax: 1 dmax: 1 
+
+Sector: 218 rmax: 6 smax: 0 dmax: 1 
+
+Sector: 249 rmax: 7 smax: 1 dmax: 1 
+
+Sector: 251 rmax: 8 smax: 2 dmax: 1 
+
+Sector: 219 rmax: 7 smax: 1 dmax: 1 
+
+Sector: 187 rmax: 7 smax: 1 dmax: 1 
+
+Sector: 123 rmax: 7 smax: 1 dmax: 1 
+
+Sector: 243 rmax: 7 smax: 1 dmax: 1 
+
+***********************************************************
+Find IBP LI and symmetry relations for the topology: TTH
+***********************************************************
+
+*****Generate IBP identities*******************************
+There are 12 IBP identities
+( 0.016756 s )
+
+*****Generate LI identities********************************
+There are 6 LI identities
+( 0.148861 s )
+
+*****Search trivial sectors********************************
+non trivial sector non trivial sector 50 3
+
+non trivial sector 59n trivial sector 59 55
+
+non trivial sector 52 3
+
+2n trivial sector non trivial sector non trivial sector 51 4
+non trivial sector 53n trivial sector 53 4
+
+non trivial sector non trivial sector 56 6 3
+
+non trivial sector 82n trivial sector 82 33
+
+non trivial sector non trivial sector  44
+
+non trivial sector non trivial sector 54 4 4
+
+non trivial sector 60n trivial sector 60 44
+non trivial sector non trivial sector 85 5 4
+
+non trivial sector 55n trivial sector 55 5
+
+non trivial sector 83n trivial sector 83 44
+
+non trivial sector 61n trivial sector 61 55
+non trivial sector 86n trivial sector 86 4
+
+non trivial sector 58n trivial sector 58 4
+
+non trivial sector 63n trivial sector 63 66
+non trivial sector 87n trivial sector 87 5
+
+non trivial sector non trivial sector 62 2 5
+
+non trivial sector 89 4
+
+non trivial sector 90 4
+
+non trivial sector non trivial sector 84 4 3
+
+non trivial sector 94n trivial sector 94  5
+
+non trivial sector non trivial sector 93 3 5
+
+non trivial sector 92n trivial sector 92 44
+
+non trivial sector 95n trivial sector 95 66
+
+non trivial sector non trivial sector 115115 55
+
+non trivial sector 117 trivial sector 117 55
+
+non trivial sector 125 trivial sector 125 6
+
+non trivial sector non trivial sector 121 21 5
+
+non trivial sector non trivial sector 114 14 4
+
+non trivial sector non trivial sector 118 55
+non trivial sector 91n trivial sector 91 55
+
+non trivial sector 123 trivial sector 123 66
+
+non trivial sector 116 trivial sector 116 44
+non trivial sector 127 trivial sector 127 77
+
+non trivial sector non trivial sector 122 22 5
+
+non trivial sector non trivial sector 119 66
+
+non trivial sector non trivial sector 124 24 5
+
+non trivial sector 126 trivial sector 126 66
+
+non trivial sector non trivial sector 150 50 4
+
+non trivial sector 148 trivial sector 148 33
+non trivial sector 147 4
+
+non trivial sector non trivial sector 145 45 3
+
+non trivial sector non trivial sector 154 54 4
+non trivial sector 120 trivial sector 120 4
+
+non trivial sector 146 trivial sector 146 33
+
+non trivial sector 162 trivial sector 162 33
+non trivial sector 166 trivial sector 166 44
+non trivial sector 159 trivial sector 159 6
+non trivial sector 149 44
+non trivial sector 155 trivial sector 155 55
+
+non trivial sector non trivial sector 153 53 4
+
+non trivial sector 167 trivial sector 167 5
+
+non trivial sector 156 trivial sector 156 44
+non trivial sector 163 trivial sector 163 44
+
+non trivial sector 174 5
+
+non trivial sector 158 58 5
+non trivial sector 164 trivial sector 164 33
+
+non trivial sector 181 trivial sector 181 5
+
+non trivial sector 169 4
+non trivial sector 170 trivial sector 170 44
+non trivial sector 184184 4
+
+non trivial sector 151 trivial sector 151 55
+
+non trivial sector 190 trivial sector 190 66
+non trivial sector 186 trivial sector 186 55
+
+non trivial sector 171 trivial sector 171 55
+non trivial sector 182 trivial sector 182 5
+
+non trivial sector non trivial sector 157157 5
+
+non trivial sector 185 trivial sector 185 55
+non trivial sector non trivial sector 191 7
+
+non trivial sector 165 trivial sector 165 44
+non trivial sector 179 trivial sector 179  5
+
+non trivial sector 187 trivial sector 187 66
+
+non trivial sector non trivial sector 177 44
+
+non trivial sector 172 trivial sector 172  4
+non trivial sector 189 trivial sector 189 6
+
+non trivial sector 180 trivial sector 180 44
+
+non trivial sector 183 trivial sector 183 6
+
+non trivial sector 175 trivial sector 175 66
+
+non trivial sector 173 trivial sector 173 55
+non trivial sector 188 trivial sector 188 55
+non trivial sector 178 78 4
+non trivial sector 211 trivial sector 211 55
+non trivial sector 217 trivial sector 217 55
+
+non trivial sector 209 trivial sector 209 44
+
+non trivial sector 218 trivial sector 218 5
+non trivial sector 212 trivial sector 212 4
+
+non trivial sector 221 trivial sector 221 6
+non trivial sector 213 13 5
+non trivial sector 229 trivial sector 229 55
+
+non trivial sector 228 trivial sector 228 4
+non trivial sector non trivial sector 215 6
+non trivial sector 226 44
+non trivial sector 210 trivial sector 210 4
+
+non trivial sector 214 trivial sector 214 5
+
+non trivial sector 235 trivial sector 235 66
+
+non trivial sector 244 trivial sector 244 55
+non trivial sector 233 trivial sector 233 55
+non trivial sector 219 19 6
+
+non trivial sector 227 trivial sector 227 5
+
+non trivial sector 230 trivial sector 230 5
+
+non trivial sector 249 trivial sector 249 66
+non trivial sector 222 trivial sector 222 66
+
+non trivial sector 237 trivial sector 237  6
+
+non trivial sector 239 trivial sector 239 77
+
+non trivial sector 223 trivial sector 223  7
+non trivial sector 247 trivial sector 247 77
+
+non trivial sector 246 trivial sector 246 6
+
+non trivial sector 238 trivial sector 238 6
+
+non trivial sector 251 51 7
+
+non trivial sector non trivial sector 242 42 5
+non trivial sector 234 trivial sector 234 5
+
+non trivial sector 250 50 6
+
+non trivial sector 255 trivial sector 255 88
+
+non trivial sector 245 trivial sector 245 66
+non trivial sector 243 trivial sector 243  6
+
+non trivial sector 220 trivial sector 220 55
+non trivial sector 231 trivial sector 231 6
+non trivial sector 253 trivial sector 253 77
+
+non trivial sector 236 trivial sector 236 55
+
+non trivial sector 254 trivial sector 254 7
+
+non trivial sector 241 trivial sector 241 5
+non trivial sector 248 trivial sector 248 55
+non trivial sector 308 trivial sector 308 4
+non trivial sector 307 07 5
+
+non trivial sector non trivial sector 309 09 5
+
+non trivial sector 306 trivial sector 306 44
+
+non trivial sector 313 trivial sector 313 5
+
+non trivial sector 317 trivial sector 317 6
+
+non trivial sector non trivial sector 252 52 6
+
+non trivial sector 315 trivial sector 315 66
+
+non trivial sector 311 trivial sector 311 66
+nnon trivial sector 316 16 5
+
+non trivial sector 310 trivial sector 310 5
+
+non trivial sector 312 trivial sector 312 44
+
+non trivial sector 319 trivial sector 319 77
+
+non trivial sector non trivial sector 314 14 5
+
+non trivial sector 318 trivial sector 318 66
+
+non trivial sector 341 trivial sector 341 5
+
+non trivial sector 349 trivial sector 349 66
+
+non trivial sector 348 trivial sector 348 55
+
+non trivial sector 345 45 5
+
+non trivial sector 340 trivial sector 340 4
+
+non trivial sector 343 trivial sector 343 66
+
+non trivial sector 339 trivial sector 339 5
+
+non trivial sector 342 trivial sector 342 55
+non trivial sector 350 50 6
+non trivial sector 351 7
+
+non trivial sector 347 trivial sector 347 6
+
+non trivial sector 338 trivial sector 338 44
+
+non trivial sector non trivial sector 370 5
+
+non trivial sector non trivial sector 374 66
+
+non trivial sector 373 trivial sector 373 66
+
+non trivial sector non trivial sector 371 71 6
+
+non trivial sector 372 trivial sector 372 5
+
+non trivial sector 382 trivial sector 382  7
+
+non trivial sector 376 trivial sector 376 5
+non trivial sector non trivial sector 381 77
+
+non trivial sector 346 trivial sector 346 5
+
+non trivial sector 375 trivial sector 375 7
+
+non trivial sector non trivial sector 379 79 7
+
+non trivial sector non trivial sector 377 77 6
+
+non trivial sector 380 trivial sector 380 6
+
+non trivial sector 383 trivial sector 383 88
+non trivial sector 407 trivial sector 407 66
+
+non trivial sector 404 trivial sector 404 44
+
+non trivial sector 403 trivial sector 403 55
+
+non trivial sector 414 trivial sector 414 66
+
+non trivial sector non trivial sector 378 78 6
+
+non trivial sector 421 trivial sector 421 5
+
+non trivial sector 402 trivial sector 402 4
+
+non trivial sector 412 trivial sector 412 5
+
+non trivial sector non trivial sector 413 13 6
+non trivial sector non trivial sector 415 15 7
+non trivial sector 422 trivial sector 422 55
+non trivial sector 430 30 6
+non trivial sector 429 trivial sector 429 66
+
+non trivial sector 432 32 4
+
+non trivial sector 420 44
+
+non trivial sector 418 trivial sector 418 44
+non trivial sector 434 34 5
+
+non trivial sector non trivial sector 419 19 5
+non trivial sector 427 trivial sector 427 6
+non trivial sector 411 trivial sector 411  6
+non trivial sector 437 trivial sector 437 6
+non trivial sector 426 trivial sector 426 5
+non trivial sector 438438 66
+
+non trivial sector non trivial sector 425 5
+
+non trivial sector 423 trivial sector 423 6
+
+non trivial sector 428 trivial sector 428 5
+
+non trivial sector 405 trivial sector 405 5
+non trivial sector 401 trivial sector 401 44
+non trivial sector 439 39 7
+
+non trivial sector 446 7
+
+non trivial sector 431 trivial sector 431 77
+non trivial sector non trivial sector 410 10 5
+
+non trivial sector non trivial sector 447 8
+non trivial sector 436 trivial sector 436 55
+
+non trivial sector 445 trivial sector 445 7
+non trivial sector 441 trivial sector 441 66
+non trivial sector 435 trivial sector 435 6
+
+non trivial sector 440 trivial sector 440 5
+
+non trivial sector 443 43 7
+
+non trivial sector 444 trivial sector 444 6
+
+non trivial sector 409 trivial sector 409 55
+
+non trivial sector non trivial sector 433 55
+
+non trivial sector 467 66
+
+non trivial sector 442 trivial sector 442 6
+
+non trivial sector 466 trivial sector 466 55
+
+non trivial sector 406 trivial sector 406 55
+non trivial sector 469 trivial sector 469 66
+non trivial sector 465 trivial sector 465 55
+
+non trivial sector 473 trivial sector 473 66
+
+non trivial sector 474 trivial sector 474  6
+
+non trivial sector 468 trivial sector 468 5
+
+non trivial sector 470 trivial sector 470 6
+
+non trivial sector 475 trivial sector 475 7
+non trivial sector 471 7
+non trivial sector 484 trivial sector 484 5
+
+non trivial sector 497 trivial sector 497 6
+
+non trivial sector 499 trivial sector 499 7
+
+non trivial sector 479 trivial sector 479 88
+
+non trivial sector 477 trivial sector 477 7
+
+non trivial sector 476 trivial sector 476 66
+
+non trivial sector 482 trivial sector 482 55
+
+non trivial sector 492 trivial sector 492 6
+
+non trivial sector 491 trivial sector 491 7
+
+non trivial sector 478 trivial sector 478 77
+
+non trivial sector 501 trivial sector 501 77
+non trivial sector 493 trivial sector 493 77
+
+non trivial sector 495495 8
+
+non trivial sector 504 trivial sector 504 6
+
+non trivial sector 496 trivial sector 496 55
+
+non trivial sector 508 trivial sector 508 77
+
+non trivial sector 485 trivial sector 485 6
+
+non trivial sector non trivial sector 483 66
+
+non trivial sector 511 99
+
+non trivial sector 489 trivial sector 489 66
+non trivial sector 505 7
+
+non trivial sector 490 trivial sector 490 6
+non trivial sector 500 trivial sector 500 6
+
+non trivial sector 486 trivial sector 486 66
+non trivial sector 502 trivial sector 502 7
+non trivial sector 506 trivial sector 506 77
+non trivial sector non trivial sector 487 87 7
+
+non trivial sector 498 trivial sector 498 66
+
+non trivial sector 509 09 8
+
+non trivial sector non trivial sector 510 10 8
+
+non trivial sector non trivial sector 515 33
+
+non trivial sector 523 trivial sector 523 44
+non trivial sector 514 trivial sector 514 22
+
+non trivial sector 494 trivial sector 494 77
+non trivial sector non trivial sector 503503 88
+
+non trivial sector 531 trivial sector 531 4
+non trivial sector 507507 8
+
+non trivial sector 538 trivial sector 538 44
+non trivial sector non trivial sector 522 22 3
+
+non trivial sector 521 21 3
+
+non trivial sector 516 trivial sector 516 22
+
+non trivial sector 519 trivial sector 519 4
+
+non trivial sector 534 trivial sector 534 44
+non trivial sector 530 trivial sector 530 3
+
+non trivial sector 540 trivial sector 540 44
+non trivial sector 529 trivial sector 529 33
+
+non trivial sector non trivial sector 518 18 3
+
+non trivial sector 549 49 4
+
+non trivial sector 524 trivial sector 524 33
+non trivial sector 526 trivial sector 526 44
+
+non trivial sector 532 trivial sector 532 33
+non trivial sector 525 trivial sector 525 44
+non trivial sector 550 4
+
+non trivial sector 535 trivial sector 535 55
+
+non trivial sector 548 trivial sector 548 33
+
+non trivial sector 533 trivial sector 533 44
+non trivial sector 541 trivial sector 541 55
+
+non trivial sector non trivial sector 553 53 4
+
+non trivial sector 543 trivial sector 543 66
+non trivial sector 542 55
+
+non trivial sector 562 44
+non trivial sector non trivial sector 537 44
+
+non trivial sector non trivial sector 517 17 3
+
+non trivial sector non trivial sector 536 36 3
+
+non trivial sector 558 trivial sector 558 5
+non trivial sector non trivial sector 547 47 4
+
+non trivial sector non trivial sector 527 27 5
+
+non trivial sector 551 trivial sector 551 55
+
+non trivial sector 559 trivial sector 559 6
+
+non trivial sector 571 trivial sector 571 66
+non trivial sector 539 trivial sector 539 55
+non trivial sector 556 trivial sector 556 4
+
+non trivial sector 572 5725
+non trivial sector non trivial sector 555 55
+
+non trivial sector 557 57 5
+
+non trivial sector 546 trivial sector 546 33
+non trivial sector 570 trivial sector 570 5
+non trivial sector 567 67 6
+non trivial sector 554 trivial sector 554 4
+non trivial sector 563 5
+
+non trivial sector 564 trivial sector 564 44
+
+non trivial sector 566 trivial sector 566 55
+non trivial sector 569 trivial sector 569 5
+non trivial sector 574 trivial sector 574 66
+
+non trivial sector 568 trivial sector 568 44
+
+non trivial sector 573 trivial sector 573 66
+
+non trivial sector non trivial sector 565 55
+
+561561 44
+
+non trivial sector non trivial sector 578 78 3
+
+non trivial sector 580 trivial sector 580 33
+
+non trivial sector 579 trivial sector 579 44
+
+non trivial sector 575 trivial sector 575 77
+non trivial sector 588 trivial sector 588 4
+
+non trivial sector 583 trivial sector 583 5
+non trivial sector non trivial sector 581 4
+
+non trivial sector 593 93 4
+
+non trivial sector 596 96 44
+
+non trivial sector 598 98 5
+non trivial sector 605 trivial sector 605 66
+non trivial sector 585 trivial sector 585 44
+non trivial sector 587 trivial sector 587 55
+
+non trivial sector 586 trivial sector 586 4
+non trivial sector 606 06 6
+
+non trivial sector non trivial sector 590 55
+
+non trivial sector 594 trivial sector 594 4
+non trivial sector non trivial sector 612 12 4
+
+non trivial sector 601 trivial sector 601 55
+
+non trivial sector 597 trivial sector 597 55
+
+non trivial sector 602 trivial sector 602 5
+
+non trivial sector 621 trivial sector 621 66
+non trivial sector 600 trivial sector 600 4
+non trivial sector 591 trivial sector 591 66
+
+non trivial sector 603 trivial sector 603 66
+
+non trivial sector non trivial sector 613 55
+
+non trivial sector 610 trivial sector 610 44
+
+non trivial sector 582 trivial sector 582 44
+
+non trivial sector 626 trivial sector 626 55
+
+non trivial sector 620 trivial sector 620 55
+
+non trivial sector 589 trivial sector 589 55
+non trivial sector non trivial sector 615 15 6
+
+non trivial sector 599 trivial sector 599 66
+non trivial sector 622 trivial sector 622 66
+non trivial sector 625 trivial sector 625 55
+
+non trivial sector non trivial sector 595 55
+
+non trivial sector non trivial sector 619 19 66
+non trivial sector 618 trivial sector 618 55
+
+non trivial sector 633 33 6
+
+non trivial sector 630 trivial sector 630 6
+non trivial sector 611 trivial sector 611 55
+
+non trivial sector 627 trivial sector 627 6
+
+non trivial sector non trivial sector 614 55
+non trivial sector non trivial sector 635 35 7
+
+non trivial sector 644 44 3
+
+non trivial sector 634 trivial sector 634 66
+non trivial sector 604 trivial sector 604 55
+
+non trivial sector 646 trivial sector 646 4
+
+non trivial sector 650 trivial sector 650 44
+
+non trivial sector 628 trivial sector 628 55
+
+non trivial sector 649 trivial sector 649  4
+
+non trivial sector 637 trivial sector 637 77
+non trivial sector 617 trivial sector 617 55
+non trivial sector non trivial sector 632 5
+
+non trivial sector 653 53 5
+
+non trivial sector 651 trivial sector 651 55
+non trivial sector 647 trivial sector 647 55
+
+non trivial sector 636 trivial sector 636 66
+
+non trivial sector 623 23 7
+non trivial sector 631 trivial sector 631 7
+
+non trivial sector 639 trivial sector 639 8
+
+non trivial sector 660 60 4
+
+non trivial sector 642 trivial sector 642 33
+non trivial sector 662 trivial sector 662 55
+non trivial sector 652 52 4
+
+non trivial sector 654 trivial sector 654 5
+
+non trivial sector 645 trivial sector 645 44
+
+non trivial sector 669 66
+
+non trivial sector non trivial sector 629 29 6
+
+non trivial sector 655 55 trivial sector  6
+
+non trivial sector 675 trivial sector 675 5
+
+non trivial sector 674 74 4
+non trivial sector 676 trivial sector 676 44
+non trivial sector 638 trivial sector 638 77
+non trivial sector non trivial sector 643 43 4
+non trivial sector 677 trivial sector 677 55
+
+non trivial sector 665 trivial sector 665 5
+
+non trivial sector 666 trivial sector 666 55
+non trivial sector 659 trivial sector 659 5
+
+non trivial sector non trivial sector 685 6
+
+non trivial sector 684 trivial sector 684 5
+
+non trivial sector non trivial sector 667 67 6
+
+non trivial sector non trivial sector 663 6
+non trivial sector 686 66
+
+non trivial sector 683 trivial sector 683 66
+
+non trivial sector non trivial sector 658 4
+
+non trivial sector 693 trivial sector 693 66
+non trivial sector 682 trivial sector 682 5
+non trivial sector 661 trivial sector 661 5
+non trivial sector 671 trivial sector 671 7
+
+non trivial sector 679 79 6
+non trivial sector non trivial sector 664 4
+non trivial sector 681 55
+non trivial sector 668 trivial sector 668 5
+
+non trivial sector 657 trivial sector 657 44
+
+non trivial sector 607 trivial sector 607 77
+
+non trivial sector 703 trivial sector 703 88
+non trivial sector non trivial sector 707 5
+
+non trivial sector 670 trivial sector 670 66
+non trivial sector non trivial sector 692 92 5
+
+non trivial sector 696 5
+non trivial sector 690 trivial sector 690 55
+non trivial sector 678 trivial sector 678 5
+non trivial sector 689 trivial sector 689 5
+
+non trivial sector 694 trivial sector 694 6
+non trivial sector 697 trivial sector 697 66
+
+non trivial sector 706 trivial sector 706 44
+non trivial sector 708 trivial sector 708 44
+
+non trivial sector non trivial sector 710 5
+
+non trivial sector 711 trivial sector 711 66
+
+non trivial sector 687 trivial sector 687 77
+non trivial sector 691 trivial sector 691 66
+non trivial sector 709 trivial sector 709 55
+
+non trivial sector 698698 66
+
+non trivial sector 702 02 7
+non trivial sector 717717 66
+
+non trivial sector 725 trivial sector 725 66
+
+non trivial sector 719 trivial sector 719 77
+non trivial sector 701 trivial sector 701 77
+non trivial sector 722 trivial sector 722 55
+
+non trivial sector 718 trivial sector 718 6
+
+non trivial sector 723 trivial sector 723 66
+
+non trivial sector non trivial sector 695 77
+non trivial sector non trivial sector 728 5
+
+non trivial sector 713 trivial sector 713 55
+
+non trivial sector 714 trivial sector 714 55
+non trivial sector 699 trivial sector 699 7
+non trivial sector 735 8
+non trivial sector 724 trivial sector 724 55
+non trivial sector 743 7
+
+non trivial sector 716 trivial sector 716 5
+
+non trivial sector 721 trivial sector 721 5
+
+non trivial sector 738 55
+
+non trivial sector 700 trivial sector 700 6
+non trivial sector non trivial sector 726 26 6
+
+non trivial sector 745 trivial sector 745 6
+
+non trivial sector 734 trivial sector 734 77
+non trivial sector 739 trivial sector 739 6
+
+non trivial sector 729 trivial sector 729 6
+non trivial sector 730 30 6
+non trivial sector non trivial sector 732 32 6
+
+non trivial sector 755 7557
+non trivial sector 731 trivial sector 731 77
+non trivial sector 753 53 6
+
+non trivial sector 751 trivial sector 751 88
+
+non trivial sector non trivial sector 754 66
+
+non trivial sector 733 33 7
+non trivial sector 741 trivial sector 741 66
+
+non trivial sector 746 trivial sector 746 6
+
+non trivial sector 749 49 7
+
+non trivial sector 715 trivial sector 715 6
+
+non trivial sector 750 trivial sector 750 77
+non trivial sector 764 trivial sector 764 7
+
+non trivial sector 747 trivial sector 747 77
+non trivial sector 772 trivial sector 772 33
+non trivial sector 748 trivial sector 748 6
+
+non trivial sector non trivial sector 742 66
+
+non trivial sector 770 trivial sector 770 33
+
+non trivial sector 771 trivial sector 771 44
+
+non trivial sector 766 trivial sector 766 88
+non trivial sector 727 trivial sector 727 77
+
+non trivial sector 759 trivial sector 759 88
+
+non trivial sector 775 trivial sector 775 55
+
+non trivial sector 773 trivial sector 773 44
+non trivial sector 740 trivial sector 740 55
+
+non trivial sector 757 trivial sector 757 77
+non trivial sector 774 trivial sector 774 4
+
+non trivial sector 760 trivial sector 760 6
+
+non trivial sector 756 trivial sector 756 66
+
+non trivial sector 763 trivial sector 763 8
+
+non trivial sector 761 77
+
+non trivial sector 784 trivial sector 784 3
+
+non trivial sector 783 trivial sector 783 6
+
+non trivial sector 765 trivial sector 765 88
+
+non trivial sector 788 trivial sector 788 44
+
+non trivial sector non trivial sector 782 55
+
+non trivial sector 781 trivial sector 781 55
+
+non trivial sector 762 trivial sector 762 7
+
+non trivial sector 778 trivial sector 778 4
+non trivial sector 786 trivial sector 786 44
+
+non trivial sector 780 44
+
+non trivial sector 791 trivial sector 791 6
+
+non trivial sector 792 trivial sector 792 44
+non trivial sector non trivial sector 797 6
+
+non trivial sector 796 55
+
+non trivial sector 758 58 7
+non trivial sector 779 trivial sector 779 55
+
+non trivial sector 767 trivial sector 767  9
+
+non trivial sector 807 07 6
+
+non trivial sector 798 98 6
+
+non trivial sector 785 trivial sector 785 44
+
+non trivial sector 787 trivial sector 787 55
+
+non trivial sector 777 trivial sector 777 44
+
+non trivial sector 804 trivial sector 804 44
+non trivial sector 793 93 5
+
+non trivial sector 811 trivial sector 811 6
+
+non trivial sector 794 trivial sector 794 55
+
+non trivial sector non trivial sector 790 90 5
+
+non trivial sector 814 trivial sector 814 66
+
+non trivial sector 805 trivial sector 805 55
+non trivial sector 812 55
+nnon trivial sector 789789 55
+non trivial sector non trivial sector 803  5
+
+non trivial sector non trivial sector 810 5
+
+non trivial sector non trivial sector 799 99 7
+
+non trivial sector 816 trivial sector 816 44
+
+non trivial sector 813 13 6
+
+non trivial sector non trivial sector 802 44
+
+non trivial sector 817 trivial sector 817 55
+non trivial sector 823 trivial sector 823 7
+
+non trivial sector 829 trivial sector 829 7
+
+non trivial sector 819 19 6
+non trivial sector non trivial sector 806 06 5
+
+non trivial sector 815 trivial sector 815 7
+
+non trivial sector 809 trivial sector 809 55
+
+non trivial sector 795 trivial sector 795 66
+non trivial sector 838 trivial sector 838 5
+non trivial sector 826 trivial sector 826 6
+
+non trivial sector 820 trivial sector 820 55
+
+non trivial sector 822 trivial sector 822 6
+
+non trivial sector 830 trivial sector 830 7
+
+non trivial sector 818 5185
+non trivial sector 825 trivial sector 825 6
+
+non trivial sector 842 trivial sector 842 55
+
+non trivial sector 831 trivial sector 831 88
+
+non trivial sector 827 trivial sector 827 77
+non trivial sector 824 trivial sector 824 5
+
+non trivial sector 848 trivial sector 848 4
+
+non trivial sector 836 trivial sector 836 44
+non trivial sector non trivial sector 845 45 6
+
+non trivial sector 821 trivial sector 821 6
+
+non trivial sector 837 trivial sector 837 5
+
+non trivial sector 828 trivial sector 828 66
+
+non trivial sector 839 6
+
+non trivial sector 861 trivial sector 861 77
+non trivial sector 852 trivial sector 852 5
+non trivial sector 854 trivial sector 854 66
+non trivial sector 849 5
+
+non trivial sector 835 trivial sector 835 5
+non trivial sector 841 trivial sector 841 55
+
+non trivial sector non trivial sector 853 66
+
+non trivial sector non trivial sector 857 6576
+
+non trivial sector 855 trivial sector 855 77
+nnon trivial sector 858 6
+non trivial sector 860 trivial sector 860 66
+non trivial sector 862 77
+non trivial sector 834 trivial sector 834 4
+
+non trivial sector non trivial sector 847 47 7
+
+non trivial sector 851 trivial sector 851 6
+non trivial sector 843 43 6
+non trivial sector 863 63 8
+
+non trivial sector 844 44 5
+
+non trivial sector 846 trivial sector 846 6
+non trivial sector 856 trivial sector 856 5
+
+non trivial sector 873 73 6
+
+non trivial sector 866 66 5
+
+non trivial sector 874 trivial sector 874 6
+
+non trivial sector 876 66
+
+non trivial sector 870 6
+
+non trivial sector non trivial sector 850 50 5
+
+non trivial sector 867 trivial sector 867  6
+non trivial sector 877 trivial sector 877 7
+
+non trivial sector 886 trivial sector 886 77
+
+non trivial sector non trivial sector 868 55
+
+non trivial sector 891 trivial sector 891 8
+
+non trivial sector 875 trivial sector 875 7
+non trivial sector 871 71 7
+
+non trivial sector 859 trivial sector 859 77
+
+non trivial sector non trivial sector 881 81 6
+
+non trivial sector 892 92 7
+non trivial sector 885 7
+
+non trivial sector 883 7
+
+non trivial sector 878 trivial sector 878 7
+
+non trivial sector 882 trivial sector 882 6
+non trivial sector 889 trivial sector 889 77
+nnon trivial sector 869 6
+
+non trivial sector 879 trivial sector 879 88
+
+non trivial sector 880 55
+
+non trivial sector 887 trivial sector 887 88
+
+non trivial sector 888 trivial sector 888 6
+
+non trivial sector 884 trivial sector 884 6
+
+non trivial sector 893 trivial sector 893 88
+non trivial sector 890 trivial sector 890 77
+
+non trivial sector 900 trivial sector 900 44
+
+non trivial sector 905 05 5
+
+non trivial sector non trivial sector 894 94 8
+
+non trivial sector 911 trivial sector 911 7
+
+non trivial sector 903 trivial sector 903  66
+non trivial sector 899 trivial sector 899 55
+non trivial sector non trivial sector 913 13 5
+
+non trivial sector 914 trivial sector 914 5
+
+non trivial sector 908 trivial sector 908 55
+non trivial sector 895 trivial sector 895 99
+
+non trivial sector 915 trivial sector 915 66
+
+non trivial sector 919 trivial sector 919 7
+
+non trivial sector 898 trivial sector 898 44
+
+non trivial sector 902 trivial sector 902 5
+
+non trivial sector 916 trivial sector 916 55
+non trivial sector 920 55
+
+non trivial sector non trivial sector 901 01 5
+non trivial sector 924 trivial sector 924 6
+
+non trivial sector 909 trivial sector 909 6
+non trivial sector 925 trivial sector 925  7
+
+non trivial sector 922 trivial sector 922 66
+nnon trivial sector 910 10 6
+
+non trivial sector 917 trivial sector 917 6
+
+non trivial sector 912 trivial sector 912 4
+
+non trivial sector 907 trivial sector 907 66
+non trivial sector 918 66
+
+non trivial sector 935 35 7
+non trivial sector non trivial sector 921 21 6
+
+non trivial sector 944 44 5
+
+non trivial sector 926 26 7
+non trivial sector 948 66
+non trivial sector 906 trivial sector 906 5
+non trivial sector non trivial sector 927 27 8
+
+non trivial sector 933 trivial sector 933 66
+non trivial sector 934 trivial sector 934 6
+
+non trivial sector 923 trivial sector 923 77
+
+non trivial sector 945 trivial sector 945 6
+non trivial sector 942 trivial sector 942 77
+
+non trivial sector 932 5
+
+non trivial sector 930 trivial sector 930 5
+
+non trivial sector 946 trivial sector 946 66
+non trivial sector 937 trivial sector 937 66
+non trivial sector 947 trivial sector 947 77
+non trivial sector 949 trivial sector 949 77
+non trivial sector 938 trivial sector 938 66
+
+non trivial sector 939 trivial sector 939 7
+
+non trivial sector 966 trivial sector 966 66
+non trivial sector 952 trivial sector 952 66
+
+non trivial sector 931 6
+non trivial sector 951 trivial sector 951 88
+non trivial sector 943 8
+
+non trivial sector non trivial sector 940 40 6
+
+non trivial sector 959 trivial sector 959 9
+
+non trivial sector 950 trivial sector 950 77
+non trivial sector 941 41 7
+
+non trivial sector 964 trivial sector 964 55
+
+non trivial sector 954 54 7
+
+non trivial sector 953 trivial sector 953 77
+
+non trivial sector 963 trivial sector 963 6
+
+non trivial sector 967 trivial sector 967 77
+non trivial sector non trivial sector 955 55 8
+
+non trivial sector 958 trivial sector 958 88
+
+non trivial sector 979 trivial sector 979 77
+
+non trivial sector 957 trivial sector 957 88
+
+non trivial sector 965 trivial sector 965 66
+
+non trivial sector 956 trivial sector 956 7
+
+non trivial sector 962 5
+non trivial sector 988 trivial sector 988 77
+
+non trivial sector 972 trivial sector 972 66
+non trivial sector 971 trivial sector 971 7
+
+non trivial sector 973 trivial sector 973 7
+non trivial sector 975 trivial sector 975  8
+
+non trivial sector 980 trivial sector 980 66
+
+non trivial sector 974 74 7
+non trivial sector 987 trivial sector 987 88
+non trivial sector 981 trivial sector 981 7
+
+non trivial sector 990 trivial sector 990 88
+non trivial sector 969 trivial sector 969 66
+
+non trivial sector 977 trivial sector 977 6
+
+non trivial sector 982 trivial sector 982 7
+non trivial sector 994 trivial sector 994 66
+
+non trivial sector 976 trivial sector 976 55
+non trivial sector non trivial sector 984 66
+non trivial sector non trivial sector 983 83 8
+
+non trivial sector non trivial sector 998 7987
+
+non trivial sector 1009trivial sector 1009 77
+
+non trivial sector 1004trivial sector 1004 77
+non trivial sector 1003trivial sector 1003 88
+
+non trivial sector non trivial sector 985 77
+
+non trivial sector 996 trivial sector 996 66
+
+non trivial sector 986 trivial sector 986 7
+non trivial sector 970 6
+non trivial sector 1007trivial sector 1007 9
+non trivial sector 978 6
+non trivial sector 995 trivial sector 995 7
+non trivial sector 991 91 9
+non trivial sector 1008trivial sector 1008 66
+
+non trivial sector 1011trivial sector 1011 88
+
+non trivial sector 1017trivial sector 1017 8
+
+non trivial sector 1014trivial sector 1014 8
+
+non trivial sector 1002trivial sector 1002 77
+non trivial sector non trivial sector 997 7
+
+non trivial sector 1029trivial sector 1029 33
+non trivial sector non trivial sector 1015 015 9
+
+non trivial sector non trivial sector 1001 001 7
+
+non trivial sector 989 trivial sector 989 88
+
+non trivial sector 1022trivial sector 1022 9
+non trivial sector 1006 006 8
+non trivial sector 1020 88
+
+non trivial sector 1031 031 4
+non trivial sector 1026 2
+non trivial sector non trivial sector 1027 3
+
+non trivial sector 1030trivial sector 1030 33
+
+non trivial sector 999 trivial sector 999 8
+
+non trivial sector 1016trivial sector 1016 7
+
+non trivial sector 1012trivial sector 1012 77
+
+non trivial sector 1028trivial sector 1028 22
+
+non trivial sector 1041trivial sector 1041 3
+non trivial sector 1045trivial sector 1045 44
+
+non trivial sector 1010trivial sector 1010 77
+
+non trivial sector 1021 9
+
+non trivial sector 1033trivial sector 1033 33
+non trivial sector 1023trivial sector 1023 10
+
+non trivial sector 1053 053 5
+non trivial sector 1038trivial sector 1038 44
+
+non trivial sector 1049trivial sector 1049 44
+non trivial sector 1013 013 8
+non trivial sector 1037trivial sector 1037 4
+
+non trivial sector 1052 052 4
+
+non trivial sector 1035trivial sector 1035 4
+
+non trivial sector 1042trivial sector 1042  3
+
+non trivial sector 1018 018 8
+
+non trivial sector 1019trivial sector 1019 99
+
+non trivial sector 1058trivial sector 1058 33
+
+non trivial sector 1059trivial sector 1059 44
+
+non trivial sector non trivial sector 1044 044 3
+
+non trivial sector 1039trivial sector 1039 55
+
+non trivial sector 1048trivial sector 1048 33
+non trivial sector 1005trivial sector 1005 88
+
+non trivial sector 1046trivial sector 1046 4
+
+non trivial sector non trivial sector 1055 66
+
+non trivial sector 1068trivial sector 1068 4
+
+non trivial sector 1034 33
+
+non trivial sector non trivial sector 1047 5
+
+non trivial sector 1061trivial sector 1061 44
+
+non trivial sector non trivial sector 1054 55
+non trivial sector 1043trivial sector 1043 44
+
+non trivial sector non trivial sector 1065 065 4
+
+non trivial sector 1050trivial sector 1050  4
+non trivial sector 1036trivial sector 1036 3
+
+non trivial sector 1067 067 5
+
+non trivial sector 1062trivial sector 1062 44
+non trivial sector non trivial sector 1066 4
+
+non trivial sector non trivial sector 1073 4
+
+non trivial sector 1082trivial sector 1082 5
+
+non trivial sector 1070trivial sector 1070 55
+
+non trivial sector 1078trivial sector 1078 55
+non trivial sector 1083trivial sector 1083 66
+
+non trivial sector non trivial sector 1063 55
+
+non trivial sector non trivial sector 1069 55
+non trivial sector 1060trivial sector 1060 3
+
+non trivial sector 1076trivial sector 1076 44
+
+non trivial sector 1051trivial sector 1051 55
+non trivial sector non trivial sector 1074 44
+
+non trivial sector 1087 087 7
+
+non trivial sector 1071trivial sector 1071 66
+
+non trivial sector 1075trivial sector 1075 55
+non trivial sector 1092trivial sector 1092 33
+
+non trivial sector non trivial sector 1079 079 6
+
+non trivial sector 1084trivial sector 1084 5
+non trivial sector 1085trivial sector 1085 66
+
+non trivial sector non trivial sector 1086 086 6
+
+non trivial sector 1107trivial sector 1107 55
+
+non trivial sector 1098trivial sector 1098 4
+
+non trivial sector 1081trivial sector 1081 5
+
+non trivial sector 1093 093 4
+
+non trivial sector 1077trivial sector 1077 5
+
+non trivial sector 1100trivial sector 1100 44
+
+non trivial sector 1102trivial sector 1102 55
+non trivial sector 1094trivial sector 1094 44
+
+non trivial sector 1097trivial sector 1097 44
+non trivial sector 1108trivial sector 1108 4
+
+non trivial sector 1090trivial sector 1090 33
+
+non trivial sector 1118 118 6
+
+non trivial sector 1110 110 5
+non trivial sector 1115  6
+
+non trivial sector 1114trivial sector 1114 55
+
+non trivial sector 1105trivial sector 1105 4
+
+non trivial sector 1119trivial sector 1119 77
+
+non trivial sector 1109trivial sector 1109  5
+
+non trivial sector 1095trivial sector 1095 55
+non trivial sector 1080trivial sector 1080 4
+non trivial sector 1122trivial sector 1122 44
+
+non trivial sector 1125trivial sector 1125 5
+
+non trivial sector 1113trivial sector 1113 5
+
+non trivial sector non trivial sector 1103 66
+
+non trivial sector 1106trivial sector 1106 4
+
+non trivial sector 1091trivial sector 1091 44
+
+non trivial sector 1116trivial sector 1116 5
+
+non trivial sector 1111trivial sector 1111 66
+non trivial sector 1132trivial sector 1132 5
+
+non trivial sector 1124trivial sector 1124 44
+nnon trivial sector 1129 5
+non trivial sector 1117trivial sector 1117 66
+non trivial sector 1112 112 4
+non trivial sector 1126trivial sector 1126 5
+
+non trivial sector 1134trivial sector 1134 66
+non trivial sector 1127 127 6
+non trivial sector 1141trivial sector 1141 66
+
+non trivial sector 1101trivial sector 1101 5
+
+non trivial sector 1146trivial sector 1146 6
+
+non trivial sector 1145 145 66
+
+non trivial sector non trivial sector 1135 71357
+
+non trivial sector 1142trivial sector 1142 66
+
+non trivial sector 1137trivial sector 1137 55
+
+non trivial sector non trivial sector 1133 133 6
+
+non trivial sector 1131trivial sector 1131 6
+non trivial sector non trivial sector 1099 099 5
+non trivial sector 1147trivial sector 1147 77
+
+non trivial sector 1144trivial sector 1144 55
+
+non trivial sector 1143trivial sector 1143 7
+
+non trivial sector 1140trivial sector 1140 5
+non trivial sector 1123trivial sector 1123 55
+non trivial sector 1161trivial sector 1161 4
+
+non trivial sector 1148 6
+
+non trivial sector 1151 151 8
+non trivial sector 1149trivial sector 1149 7
+non trivial sector non trivial sector 1155 4
+
+non trivial sector 1130trivial sector 1130 5
+
+non trivial sector 1154trivial sector 1154 33
+non trivial sector non trivial sector 1158 158 4
+
+non trivial sector non trivial sector 1162 44
+non trivial sector 1169trivial sector 1169 4
+
+non trivial sector non trivial sector 1138 5
+
+non trivial sector 1150trivial sector 1150 77
+
+non trivial sector non trivial sector 1139 139 6
+
+non trivial sector 1167trivial sector 1167 66
+
+non trivial sector 1156trivial sector 1156 3
+
+non trivial sector 1176trivial sector 1176 4
+
+non trivial sector 1170trivial sector 1170 4
+
+non trivial sector 1172trivial sector 1172 4
+
+non trivial sector 1181trivial sector 1181 66
+
+non trivial sector 1175trivial sector 1175 66
+
+non trivial sector 1190trivial sector 1190 55
+
+non trivial sector 1171 55
+
+non trivial sector non trivial sector 1165 165 5
+
+non trivial sector 1178trivial sector 1178 55
+non trivial sector non trivial sector 1164 44
+non trivial sector 1163trivial sector 1163 55
+non trivial sector 1157trivial sector 1157 4
+
+non trivial sector non trivial sector 1177 5
+
+non trivial sector 1179 179 6
+
+non trivial sector 1186trivial sector 1186 44
+
+non trivial sector 1174trivial sector 1174 55
+
+non trivial sector 1173trivial sector 1173 55
+
+non trivial sector 1182trivial sector 1182 66
+
+non trivial sector 1195 195 6
+
+non trivial sector 1193 55
+
+non trivial sector 1201trivial sector 1201 55
+non trivial sector 1187trivial sector 1187 55
+non trivial sector non trivial sector 1194 55
+
+non trivial sector non trivial sector 1188 188 4
+
+non trivial sector 1183trivial sector 1183 77
+non trivial sector non trivial sector 1208  5
+
+non trivial sector non trivial sector 11661166 55
+non trivial sector 1159trivial sector 1159 55
+
+non trivial sector 1198trivial sector 1198 6
+
+non trivial sector non trivial sector 1191 191 6
+
+non trivial sector 1180trivial sector 1180 55
+non trivial sector 1199trivial sector 1199 77
+non trivial sector 1196trivial sector 1196 55
+non trivial sector non trivial sector 1212 66
+non trivial sector 1204trivial sector 1204 55
+non trivial sector non trivial sector 1202 55
+
+non trivial sector 1222trivial sector 1222 55
+
+non trivial sector non trivial sector 1197 197 6
+
+non trivial sector 1189trivial sector 1189 5
+non trivial sector non trivial sector 1214 77
+non trivial sector 1203trivial sector 1203 6
+
+non trivial sector non trivial sector 1223 223 6
+
+non trivial sector 1211trivial sector 1211 7
+
+non trivial sector 1221trivial sector 1221 55
+
+non trivial sector 1219 219 5
+
+non trivial sector 1226trivial sector 1226 5
+non trivial sector 1206trivial sector 1206 66
+non trivial sector 1205 66
+non trivial sector 1234trivial sector 1234 55
+non trivial sector 1218trivial sector 1218 4
+
+non trivial sector 1210trivial sector 1210 6
+
+non trivial sector 1242trivial sector 1242 66
+
+non trivial sector 1229trivial sector 1229 66
+non trivial sector 1215trivial sector 1215 8
+non trivial sector 1213 77
+non trivial sector 1235trivial sector 1235 66
+
+non trivial sector 1228trivial sector 1228 55
+
+non trivial sector 1240trivial sector 1240 55
+
+non trivial sector 1225trivial sector 1225 5
+
+non trivial sector 1238trivial sector 1238 66
+non trivial sector non trivial sector 1233 233 5
+
+non trivial sector 1227trivial sector 1227 66
+
+non trivial sector 1236trivial sector 1236 55
+
+non trivial sector 1250 250 5
+
+non trivial sector 1251 62516
+
+non trivial sector 1207trivial sector 1207 77
+non trivial sector 1253trivial sector 1253 6
+
+non trivial sector 1245trivial sector 1245  7
+
+non trivial sector 1252trivial sector 1252 55
+non trivial sector 1231trivial sector 1231 77
+non trivial sector 1241trivial sector 1241 6
+non trivial sector 1259trivial sector 1259 77
+
+non trivial sector 1254  6
+non trivial sector 1260trivial sector 1260 6
+non trivial sector 1209 209 6
+
+non trivial sector non trivial sector 1237 6
+
+non trivial sector non trivial sector 1243 243 7
+
+non trivial sector 1246trivial sector 1246 77
+
+non trivial sector 1258 258 6
+non trivial sector 1257trivial sector 1257 6
+non trivial sector 1239trivial sector 1239 77
+
+non trivial sector 1244trivial sector 1244 6
+non trivial sector 1262 262 7
+
+non trivial sector 1230trivial sector 1230 66
+non trivial sector 1265trivial sector 1265 6
+
+non trivial sector non trivial sector 1220 220 4
+
+non trivial sector 1268trivial sector 1268 6
+non trivial sector 1261 261trivial sector  7
+
+non trivial sector 1267trivial sector 1267 7
+
+non trivial sector non trivial sector 1270 77
+non trivial sector 1269trivial sector 1269 77
+non trivial sector 1285 285 4
+non trivial sector 1272trivial sector 1272 6
+non trivial sector 1271trivial sector 1271 8
+
+non trivial sector non trivial sector 1255 77
+non trivial sector 1273trivial sector 1273 7
+non trivial sector non trivial sector 1276 77
+
+non trivial sector 1247trivial sector 1247 8
+non trivial sector 1266trivial sector 1266 66
+non trivial sector 1289trivial sector 1289 44
+non trivial sector 1291 55
+non trivial sector 1274trivial sector 1274 7
+
+non trivial sector 1284 284 3
+
+non trivial sector 1293trivial sector 1293 5
+
+non trivial sector 1294trivial sector 1294 5
+
+non trivial sector non trivial sector 1279 99
+
+non trivial sector 1283trivial sector 1283 44
+non trivial sector 1297trivial sector 1297 4
+non trivial sector 1295 66
+non trivial sector non trivial sector 1296 33
+
+non trivial sector 1277trivial sector 1277 88
+
+non trivial sector 1298trivial sector 1298 44
+
+non trivial sector 1292trivial sector 1292 4
+
+non trivial sector 1287trivial sector 1287 55
+
+non trivial sector non trivial sector 1304 304 44
+non trivial sector 1303trivial sector 1303 6
+non trivial sector non trivial sector 1263 263 8
+
+non trivial sector 1307trivial sector 1307 6
+
+non trivial sector 1306trivial sector 1306 55
+
+non trivial sector 1305trivial sector 1305 55
+
+non trivial sector 1300trivial sector 1300 44
+
+non trivial sector 1290trivial sector 1290 4
+
+non trivial sector 1311trivial sector 1311 7
+
+non trivial sector 1299trivial sector 1299 5
+non trivial sector 1319 66
+
+non trivial sector 1310trivial sector 1310 6
+
+non trivial sector 1318trivial sector 1318 5
+
+non trivial sector 1323 66
+
+non trivial sector 1308 308 5
+
+non trivial sector 1275trivial sector 1275 88
+
+non trivial sector 1278trivial sector 1278 8
+
+non trivial sector non trivial sector 1332 55
+
+non trivial sector 1317 317 55
+
+non trivial sector non trivial sector 1314 314 4
+
+non trivial sector 1324trivial sector 1324 5
+
+non trivial sector 1286trivial sector 1286  4
+
+non trivial sector 1315 5
+
+non trivial sector 1329trivial sector 1329 5
+
+non trivial sector 1325trivial sector 1325 6
+non trivial sector non trivial sector 1316 316 4
+
+non trivial sector 1331 66
+non trivial sector 1326trivial sector 1326 6
+
+non trivial sector 1302trivial sector 1302 5
+
+non trivial sector 1338 66
+
+non trivial sector 1328trivial sector 1328 4
+
+non trivial sector 13221322 55
+
+non trivial sector 1336trivial sector 1336 55
+
+non trivial sector 1330trivial sector 1330 5
+
+non trivial sector non trivial sector 1309 309 6
+
+non trivial sector 1301trivial sector 1301 5
+
+non trivial sector 1351trivial sector 1351 6
+non trivial sector non trivial sector 1321 321 5
+non trivial sector non trivial sector 1327 327 7
+
+non trivial sector 1334trivial sector 1334 6
+
+non trivial sector 1342trivial sector 1342 7
+
+non trivial sector 1282 33
+
+non trivial sector 1335trivial sector 1335 7
+non trivial sector 1346trivial sector 1346 44
+
+non trivial sector 1349trivial sector 1349 5
+
+non trivial sector 1339trivial sector 1339 7
+
+non trivial sector non trivial sector 1333 66
+non trivial sector 1340trivial sector 1340 6
+non trivial sector 1362trivial sector 1362 55
+
+non trivial sector 1341trivial sector 1341 7
+
+non trivial sector 1343trivial sector 1343 88
+
+non trivial sector 1359trivial sector 1359 7
+non trivial sector 1360 44
+
+non trivial sector 1348trivial sector 1348 44
+
+non trivial sector 1372 6
+
+non trivial sector 1347trivial sector 1347 5
+
+non trivial sector 1356 356 5
+
+non trivial sector 1337trivial sector 1337 66
+
+non trivial sector 1369trivial sector 1369 66
+non trivial sector 1365trivial sector 1365 66
+
+non trivial sector 1357trivial sector 1357 6
+
+non trivial sector 1367trivial sector 1367 7
+
+non trivial sector 1353trivial sector 1353 55
+non trivial sector 1354 354 5
+
+non trivial sector 1371trivial sector 1371 77
+
+non trivial sector 1374trivial sector 1374 7
+non trivial sector 1382trivial sector 1382 6
+
+non trivial sector 1373 373 7
+
+non trivial sector non trivial sector 1364 364 5
+
+non trivial sector non trivial sector 1355 355 6
+
+non trivial sector 1379trivial sector 1379 6
+non trivial sector 1350trivial sector 1350 5
+
+non trivial sector 1358trivial sector 1358 66
+non trivial sector 1394trivial sector 1394 66
+
+non trivial sector 1378 55
+non trivial sector 1368trivial sector 1368 55
+
+non trivial sector 1375trivial sector 1375 88
+
+non trivial sector 1392trivial sector 1392 5
+
+non trivial sector 1381trivial sector 1381 6
+
+non trivial sector 1366 66
+
+non trivial sector 1363trivial sector 1363 6
+
+non trivial sector non trivial sector 1383 77
+
+non trivial sector non trivial sector 1387 387 7
+
+non trivial sector non trivial sector 1393 393 6
+
+non trivial sector non trivial sector 1397 397 7
+
+non trivial sector 1361trivial sector 1361 55
+
+non trivial sector 1370trivial sector 1370 66
+
+non trivial sector 1385trivial sector 1385 6
+
+non trivial sector 1386 6
+
+non trivial sector 1391trivial sector 1391 8
+
+non trivial sector non trivial sector 1390 390 7
+
+non trivial sector non trivial sector 1406 406 8
+
+non trivial sector 1402 77
+
+non trivial sector 1399 88
+
+non trivial sector 1396trivial sector 1396 6
+non trivial sector 1407trivial sector 1407 9
+
+non trivial sector 1413trivial sector 1413 55
+non trivial sector 1401trivial sector 1401 77
+
+non trivial sector 1411trivial sector 1411 55
+
+non trivial sector 1404trivial sector 1404 77
+
+non trivial sector 1380trivial sector 1380 55
+non trivial sector 1420 5
+
+non trivial sector non trivial sector 1395 395 7
+
+non trivial sector 1388trivial sector 1388 66
+
+non trivial sector 1412trivial sector 1412 44
+non trivial sector 1389trivial sector 1389 7
+non trivial sector 1415 415 6
+non trivial sector 1423trivial sector 1423 7
+
+non trivial sector 1398 7
+non trivial sector 1421trivial sector 1421 66
+non trivial sector 1419trivial sector 1419 6
+
+non trivial sector 1410trivial sector 1410 4
+
+non trivial sector non trivial sector 1405 88
+non trivial sector 1403trivial sector 1403  8
+non trivial sector 1428trivial sector 1428 55
+
+non trivial sector non trivial sector 1400 400 6
+
+non trivial sector 1426trivial sector 1426 55
+
+non trivial sector non trivial sector 14181418 55
+
+non trivial sector 1414trivial sector 1414 55
+
+non trivial sector non trivial sector 1422 422 6
+
+non trivial sector 1444 5
+
+non trivial sector 1443 443 6
+
+non trivial sector 1417 417 5
+
+non trivial sector 1424trivial sector 1424 44
+non trivial sector 1431trivial sector 1431 77
+non trivial sector 1436trivial sector 1436 66
+
+non trivial sector 1433 433 6
+
+non trivial sector 1425trivial sector 1425 55
+non trivial sector non trivial sector 1442 442 5
+
+non trivial sector 1445trivial sector 1445 66
+non trivial sector 1438trivial sector 1438 77
+
+non trivial sector 1434trivial sector 1434 6
+
+non trivial sector non trivial sector 1427 66
+non trivial sector 1454 454 7
+
+non trivial sector 1430trivial sector 1430 66
+
+non trivial sector 1437trivial sector 1437 7
+non trivial sector 1452trivial sector 1452 66
+
+non trivial sector 1451trivial sector 1451 7
+non trivial sector 1446trivial sector 1446 66
+non trivial sector 1450 6
+
+non trivial sector 1458 458 6
+
+non trivial sector 1457trivial sector 1457 66
+
+non trivial sector 1432trivial sector 1432 55
+non trivial sector non trivial sector 1459 77
+non trivial sector 1439 88
+
+non trivial sector 1429trivial sector 1429 66
+non trivial sector 1435trivial sector 1435 7
+
+non trivial sector 1460trivial sector 1460 66
+
+non trivial sector 1456trivial sector 1456 55
+
+non trivial sector 1470trivial sector 1470 8
+
+non trivial sector 1455 88
+non trivial sector 1447 447 7
+
+non trivial sector 1453trivial sector 1453 77
+non trivial sector 1474trivial sector 1474 5
+
+non trivial sector non trivial sector 1464 6
+
+non trivial sector 1449trivial sector 1449 6
+
+non trivial sector 1481trivial sector 1481 66
+non trivial sector 1469 469 8
+
+non trivial sector 1465 465 7
+
+non trivial sector 1478trivial sector 1478 66
+
+non trivial sector 1471trivial sector 1471 99
+
+non trivial sector 1462trivial sector 1462 77
+
+non trivial sector 1468trivial sector 1468 77
+non trivial sector 1467trivial sector 1467 8
+
+non trivial sector 1482trivial sector 1482 6
+
+non trivial sector 1486trivial sector 1486 77
+
+non trivial sector 1485 7
+non trivial sector 1487trivial sector 1487 88
+non trivial sector 1488trivial sector 1488 55
+
+non trivial sector 1461trivial sector 1461 7
+non trivial sector 1463trivial sector 1463 88
+non trivial sector non trivial sector 1494  7
+
+non trivial sector 1466trivial sector 1466 7
+non trivial sector 1476trivial sector 1476 55
+non trivial sector 1490trivial sector 1490 66
+
+non trivial sector 1495trivial sector 1495 8
+non trivial sector 1491trivial sector 1491 77
+
+non trivial sector 1492trivial sector 1492 66
+non trivial sector 1499  8
+non trivial sector 1489 66
+non trivial sector 1500 77
+non trivial sector 1475 475 6
+
+non trivial sector 1503trivial sector 1503 99
+non trivial sector 1498trivial sector 1498 77
+
+non trivial sector 1496trivial sector 1496 6
+
+non trivial sector 1479trivial sector 1479 7
+
+non trivial sector 1483trivial sector 1483 7
+non trivial sector 1514trivial sector 1514 7
+non trivial sector 1497trivial sector 1497 77
+non trivial sector 1477trivial sector 1477 66
+non trivial sector 1509trivial sector 1509 77
+non trivial sector 1501trivial sector 1501 8
+
+non trivial sector 1508trivial sector 1508 66
+
+non trivial sector 1507trivial sector 1507 77
+
+non trivial sector 1521trivial sector 1521 77
+
+non trivial sector 1484trivial sector 1484 66
+non trivial sector 1493trivial sector 1493 77
+nnon trivial sector 1506  6
+
+non trivial sector 1510trivial sector 1510 77
+
+non trivial sector 1511trivial sector 1511 8
+
+non trivial sector non trivial sector 1523 8
+non trivial sector non trivial sector 1502 502 8
+
+non trivial sector 1515trivial sector 1515 88
+non trivial sector 1526trivial sector 1526 88
+
+non trivial sector 1513 513 7
+
+non trivial sector 1517trivial sector 1517 88
+non trivial sector 1529trivial sector 1529 88
+non trivial sector 1525trivial sector 1525 88
+non trivial sector 1530trivial sector 1530 88
+
+non trivial sector 1522trivial sector 1522 77
+non trivial sector 1518trivial sector 1518 8
+
+non trivial sector 1519trivial sector 1519 9
+
+non trivial sector 1541trivial sector 1541 44
+
+non trivial sector 1543trivial sector 1543 5
+
+non trivial sector non trivial sector 1516 77
+non trivial sector 1528trivial sector 1528 7
+
+non trivial sector 1532trivial sector 1532 8
+
+non trivial sector 1538trivial sector 1538 33
+non trivial sector 1534 99
+non trivial sector non trivial sector 1540 33
+
+non trivial sector 1524trivial sector 1524 77
+
+non trivial sector 1533trivial sector 1533 99
+non trivial sector 1539trivial sector 1539 44
+non trivial sector 1545trivial sector 1545 4
+
+non trivial sector 1527trivial sector 1527 99
+non trivial sector 1550trivial sector 1550 55
+
+non trivial sector 1555trivial sector 1555 5
+
+non trivial sector non trivial sector 1542 4
+
+non trivial sector non trivial sector 1531 531 9
+non trivial sector 1559trivial sector 1559 6
+
+non trivial sector 1554 4
+
+non trivial sector non trivial sector 1520 65206
+
+non trivial sector 1535 535 10
+0
+non trivial sector non trivial sector 1561 561 5
+
+non trivial sector 1556trivial sector 1556 4
+
+non trivial sector 1549  5
+non trivial sector 1546 44
+
+non trivial sector 1560 560 4
+
+non trivial sector 1551trivial sector 1551 66
+
+non trivial sector 1562trivial sector 1562 5
+
+non trivial sector 1565trivial sector 1565 6
+
+non trivial sector 1548trivial sector 1548 44
+
+non trivial sector 1558trivial sector 1558 5
+
+non trivial sector 1570trivial sector 1570 4
+
+non trivial sector 1564 55
+non trivial sector 1557trivial sector 1557 5
+
+non trivial sector 1575trivial sector 1575 6
+
+non trivial sector 1580 580 5
+
+non trivial sector 1553trivial sector 1553 44
+
+non trivial sector 1579trivial sector 1579 6
+non trivial sector 1577trivial sector 1577 55
+non trivial sector 1573 55
+non trivial sector 15831583 7
+
+non trivial sector non trivial sector 1547 55
+
+non trivial sector 1578 578 5
+
+non trivial sector 1581trivial sector 1581 66
+
+non trivial sector 1572trivial sector 1572 44
+
+non trivial sector 1574trivial sector 1574 5
+non trivial sector 1582trivial sector 1582 6
+non trivial sector 1595trivial sector 1595 7
+
+non trivial sector 1567 77
+non trivial sector 1563trivial sector 1563  6
+
+non trivial sector 1566trivial sector 1566 6
+
+non trivial sector 1592trivial sector 1592 5
+
+non trivial sector non trivial sector 1589 6
+
+non trivial sector 1571trivial sector 1571 55
+
+non trivial sector 1596trivial sector 1596 6
+non trivial sector 1604trivial sector 1604 4
+
+non trivial sector non trivial sector 1587 587 6
+
+non trivial sector 1602 44
+
+non trivial sector 1611trivial sector 1611 66
+nnon trivial sector 1598 77
+
+non trivial sector 1590trivial sector 1590 66
+
+non trivial sector 1606trivial sector 1606 5
+
+non trivial sector 1586 55
+non trivial sector 1585 585 5
+non trivial sector 1591trivial sector 1591 7
+
+non trivial sector 1609trivial sector 1609 55
+non trivial sector non trivial sector 1597 597 7
+
+non trivial sector 1588trivial sector 1588 55
+
+non trivial sector 1603trivial sector 1603 5
+
+non trivial sector non trivial sector 1615 77
+
+non trivial sector 1605 605 5
+non trivial sector 1610trivial sector 1610 55
+
+non trivial sector 1607trivial sector 1607 6
+non trivial sector 1614trivial sector 1614 6
+
+non trivial sector 1618trivial sector 1618 55
+
+non trivial sector 1594trivial sector 1594 6
+
+non trivial sector 1613trivial sector 1613 6
+
+non trivial sector 1599trivial sector 1599 88
+
+non trivial sector non trivial sector 1623 7
+non trivial sector 1624trivial sector 1624 5
+
+non trivial sector 1619trivial sector 1619 66
+non trivial sector 1612trivial sector 1612 5
+
+non trivial sector 1593trivial sector 1593 66
+non trivial sector non trivial sector 1626 626 6
+
+non trivial sector 1620trivial sector 1620 55
+non trivial sector 1636trivial sector 1636 55
+
+non trivial sector 1621trivial sector 1621 6
+non trivial sector 1622trivial sector 1622 6
+non trivial sector non trivial sector 1617 55
+non trivial sector 1646trivial sector 1646 77
+
+non trivial sector 1638trivial sector 1638 66
+
+non trivial sector 1630 630 7
+
+non trivial sector 1634trivial sector 1634 55
+non trivial sector 1637 66
+
+non trivial sector 1627 77
+
+non trivial sector 1639trivial sector 1639 77
+non trivial sector 1652 6
+
+non trivial sector 1642 642 6
+
+non trivial sector 1628trivial sector 1628 6
+non trivial sector 1629 77
+non trivial sector 1644trivial sector 1644 6
+
+non trivial sector 1643trivial sector 1643 7
+
+non trivial sector non trivial sector 1641 641 6
+
+non trivial sector 1631trivial sector 1631 8
+
+non trivial sector 1635trivial sector 1635 6
+non trivial sector 1661trivial sector 1661  8
+
+non trivial sector non trivial sector 1645 645 7
+
+non trivial sector 1650trivial sector 1650 66
+
+non trivial sector 1656trivial sector 1656 66
+non trivial sector 1653trivial sector 1653 7
+non trivial sector 1663trivial sector 1663 9
+
+non trivial sector 1670trivial sector 1670 55
+non trivial sector 1660trivial sector 1660 77
+
+non trivial sector 1651 77
+non trivial sector 1669trivial sector 1669 5
+non trivial sector 1647trivial sector 1647 88
+
+non trivial sector non trivial sector 1657 77
+
+non trivial sector 1658trivial sector 1658 77
+
+non trivial sector 1674trivial sector 1674 5
+
+non trivial sector 1649trivial sector 1649 6
+
+non trivial sector 1625trivial sector 1625 66
+non trivial sector 1667 667 5
+
+non trivial sector 1668trivial sector 1668 44
+
+non trivial sector 1655trivial sector 1655 8
+
+non trivial sector 1673trivial sector 1673 55
+
+non trivial sector 1666trivial sector 1666 44
+
+non trivial sector non trivial sector 1677 66
+
+non trivial sector 1654trivial sector 1654 7
+
+non trivial sector 1686trivial sector 1686 6
+
+non trivial sector 1676trivial sector 1676 55
+non trivial sector non trivial sector 1681 681 5
+
+non trivial sector 1662trivial sector 1662 88
+
+non trivial sector 1679trivial sector 1679 77
+
+non trivial sector 1671 6
+
+non trivial sector 1690trivial sector 1690 6
+non trivial sector 1691 7
+
+non trivial sector 1678 66
+
+non trivial sector 1683trivial sector 1683 6
+
+non trivial sector 1698trivial sector 1698 5
+non trivial sector 1682trivial sector 1682 55
+
+non trivial sector non trivial sector 1675 675 6
+
+non trivial sector non trivial sector 1684 684 5
+
+non trivial sector 1692trivial sector 1692 6
+
+non trivial sector non trivial sector 1685 685 6
+
+non trivial sector 1699trivial sector 1699 6
+
+non trivial sector 1659trivial sector 1659  8
+
+non trivial sector 1708trivial sector 1708 6
+
+non trivial sector non trivial sector 1694 694 7
+
+non trivial sector 1693trivial sector 1693  7
+
+non trivial sector non trivial sector 1709 709 7
+
+non trivial sector 1707trivial sector 1707 7
+
+non trivial sector 1689trivial sector 1689 6
+
+non trivial sector 1688trivial sector 1688 5
+
+non trivial sector 1713trivial sector 1713 66
+
+non trivial sector 1705trivial sector 1705 66
+
+non trivial sector 1714trivial sector 1714 6
+
+non trivial sector 1695trivial sector 1695 8
+
+non trivial sector 1703trivial sector 1703 7
+
+non trivial sector non trivial sector 1700 700 5
+non trivial sector 1710trivial sector 1710 7
+
+non trivial sector 1715 7
+
+non trivial sector 1720trivial sector 1720 6
+
+non trivial sector non trivial sector 1702 702 6
+
+non trivial sector non trivial sector 1719 8
+
+non trivial sector 1732 732 5
+
+non trivial sector 1716trivial sector 1716 6
+
+non trivial sector 1722 722 7
+
+non trivial sector 1711trivial sector 1711 8
+
+non trivial sector 1721trivial sector 1721 77
+
+non trivial sector 1706trivial sector 1706 6
+
+non trivial sector 1687trivial sector 1687 7
+
+non trivial sector 1718trivial sector 1718 77
+
+non trivial sector 1742trivial sector 1742 7
+
+non trivial sector 1730 730 55
+
+non trivial sector 1725trivial sector 1725 8
+
+non trivial sector 1733trivial sector 1733 6
+
+non trivial sector 1701trivial sector 1701  6
+
+non trivial sector 1735trivial sector 1735 77
+non trivial sector 1738 738 66
+
+non trivial sector 1724trivial sector 1724 7
+
+non trivial sector 1731trivial sector 1731 66
+non trivial sector 1723 723 8
+
+non trivial sector 1737trivial sector 1737 66
+
+non trivial sector 1740trivial sector 1740 66
+
+non trivial sector 1739trivial sector 1739 7
+
+non trivial sector 1749trivial sector 1749 77
+non trivial sector 1726trivial sector 1726 88
+
+non trivial sector non trivial sector 1745 745 6
+
+non trivial sector 1734trivial sector 1734 6
+nnon trivial sector 1717 717 7
+
+non trivial sector 1752trivial sector 1752 66
+non trivial sector 1727 9
+
+non trivial sector 1753trivial sector 1753 7
+
+non trivial sector 1747trivial sector 1747 77
+
+non trivial sector 1741 7
+
+non trivial sector 1757trivial sector 1757 88
+
+non trivial sector 1748 6
+
+non trivial sector 1751trivial sector 1751 88
+non trivial sector 1750trivial sector 1750 7
+
+non trivial sector 1756trivial sector 1756 7
+
+non trivial sector 1754trivial sector 1754 7
+
+non trivial sector 1759trivial sector 1759 99
+
+non trivial sector 1767trivial sector 1767 88
+non trivial sector 1758 8
+
+non trivial sector 1746 746 6
+
+non trivial sector 1743trivial sector 1743 88
+non trivial sector 1770trivial sector 1770 77
+non trivial sector 1772trivial sector 1772 77
+non trivial sector 1762trivial sector 1762 66
+non trivial sector 1775trivial sector 1775 99
+
+non trivial sector 1763trivial sector 1763 7
+
+non trivial sector 1755trivial sector 1755 8
+
+non trivial sector 1778trivial sector 1778 7
+
+non trivial sector 1765 77
+non trivial sector 1777trivial sector 1777 7
+
+non trivial sector 1766trivial sector 1766 77
+non trivial sector 1774trivial sector 1774 8
+
+non trivial sector non trivial sector 1788 88
+
+non trivial sector 1782trivial sector 1782 88
+
+non trivial sector 1784trivial sector 1784 77
+
+non trivial sector 1769 769 7
+
+non trivial sector 1786trivial sector 1786 88
+non trivial sector non trivial sector 1785 88
+non trivial sector non trivial sector 1773 8
+
+non trivial sector 1803 66
+non trivial sector 1797trivial sector 1797 5
+
+non trivial sector 1783trivial sector 1783 9
+
+non trivial sector 1795trivial sector 1795 55
+non trivial sector 1779trivial sector 1779 88
+
+non trivial sector 1781trivial sector 1781 8
+non trivial sector 1790trivial sector 1790  9
+
+non trivial sector 1780trivial sector 1780 77
+
+non trivial sector 1805trivial sector 1805 66
+non trivial sector 1787trivial sector 1787 9
+non trivial sector 1764 764 6
+
+non trivial sector non trivial sector 1798 798 5
+
+non trivial sector non trivial sector 1789 9
+
+non trivial sector 1802trivial sector 1802 55
+
+non trivial sector 1814trivial sector 1814 66
+
+non trivial sector 1816trivial sector 1816 5
+
+non trivial sector 1796 796 4
+non trivial sector 1812trivial sector 1812 55
+
+non trivial sector 1771trivial sector 1771 8
+non trivial sector 1794trivial sector 1794 44
+
+non trivial sector 1820trivial sector 1820 66
+non trivial sector non trivial sector 1811 811 6
+
+non trivial sector 1806trivial sector 1806 66
+
+non trivial sector 1810trivial sector 1810 5
+
+non trivial sector 1799trivial sector 1799 6
+
+non trivial sector 1807trivial sector 1807 77
+non trivial sector 1819trivial sector 1819 7
+non trivial sector 1815trivial sector 1815 77
+
+non trivial sector non trivial sector 1801 801 5
+
+non trivial sector 1804trivial sector 1804 55
+non trivial sector 1808 44
+non trivial sector 1813 813 6
+
+non trivial sector 1830trivial sector 1830 6
+
+non trivial sector 1818trivial sector 1818 6
+
+non trivial sector 1817trivial sector 1817 6
+
+non trivial sector 1823trivial sector 1823 88
+
+non trivial sector 1809trivial sector 1809 5
+
+non trivial sector 1821trivial sector 1821 77
+
+non trivial sector 1828trivial sector 1828 5
+
+non trivial sector non trivial sector 1826 5
+
+non trivial sector non trivial sector 1829 6
+
+non trivial sector 1850trivial sector 1850 7
+non trivial sector 1849 7
+non trivial sector 1827 6
+
+non trivial sector 1834trivial sector 1834  6
+
+non trivial sector 1841trivial sector 1841 6
+non trivial sector 1839trivial sector 1839 88
+non trivial sector 1844trivial sector 1844 6
+
+non trivial sector 1838trivial sector 1838 7
+non trivial sector 1846 7
+non trivial sector 1847trivial sector 1847  8
+non trivial sector 1848 6
+
+non trivial sector non trivial sector 1840 55
+
+non trivial sector 1822trivial sector 1822 7
+
+non trivial sector 1791trivial sector 1791 110
+
+non trivial sector 1836trivial sector 1836 66
+
+non trivial sector 1852 852 7
+
+non trivial sector 1845trivial sector 1845 7
+
+non trivial sector 1859trivial sector 1859 66
+
+non trivial sector non trivial sector 1851 88
+non trivial sector 1833trivial sector 1833 6
+
+non trivial sector 1831trivial sector 1831 77
+
+non trivial sector 1842trivial sector 1842 66
+
+non trivial sector 1835trivial sector 1835 7
+
+non trivial sector non trivial sector 1837 837 7
+
+non trivial sector 1858trivial sector 1858 55
+non trivial sector 1874trivial sector 1874 6
+
+non trivial sector 1866trivial sector 1866 6
+
+non trivial sector 1862trivial sector 1862 66
+
+non trivial sector 1854trivial sector 1854 8
+non trivial sector 1863trivial sector 1863 77
+
+non trivial sector 1853trivial sector 1853 8
+
+non trivial sector 1868trivial sector 1868 66
+
+non trivial sector 1869trivial sector 1869 77
+non trivial sector 1880trivial sector 1880 6
+
+non trivial sector 1867trivial sector 1867 7
+
+non trivial sector 1843trivial sector 1843 7
+
+non trivial sector 1861trivial sector 1861 66
+non trivial sector 1865trivial sector 1865 6
+
+non trivial sector 1872trivial sector 1872 55
+
+non trivial sector 1871trivial sector 1871 88
+
+non trivial sector 1878trivial sector 1878 7
+non trivial sector 1890trivial sector 1890 6
+
+non trivial sector non trivial sector 1875 875 7
+
+non trivial sector 1885trivial sector 1885 8
+
+non trivial sector non trivial sector 1870 7
+
+non trivial sector 1873trivial sector 1873 66
+
+non trivial sector non trivial sector 1855 9
+
+non trivial sector 1882 77
+
+non trivial sector 1884trivial sector 1884 77
+
+non trivial sector 1876trivial sector 1876 6
+
+non trivial sector 1887trivial sector 1887 99
+
+non trivial sector 1886trivial sector 1886  8
+
+non trivial sector 1901trivial sector 1901 8
+
+non trivial sector 1894trivial sector 1894 77
+
+non trivial sector 1893trivial sector 1893 77
+
+non trivial sector 1898 898 77
+
+non trivial sector 1892trivial sector 1892 66
+non trivial sector 1891trivial sector 1891 7
+
+non trivial sector 1900trivial sector 1900 77
+
+non trivial sector non trivial sector 1877 77
+
+non trivial sector 1879trivial sector 1879 88
+non trivial sector 1883trivial sector 1883 88
+non trivial sector 1899trivial sector 1899 8
+
+non trivial sector 1897trivial sector 1897 77
+non trivial sector 1912trivial sector 1912 7
+
+non trivial sector 1916 916 8
+
+non trivial sector 1903trivial sector 1903 9
+
+non trivial sector 1860trivial sector 1860 5
+
+non trivial sector 1914trivial sector 1914 88
+non trivial sector 1907 907 8
+
+non trivial sector 1902trivial sector 1902 88
+non trivial sector 1917trivial sector 1917 9
+
+non trivial sector 1908trivial sector 1908 7
+
+non trivial sector 1910trivial sector 1910 8
+
+non trivial sector 1881 7
+non trivial sector 1906trivial sector 1906 77
+non trivial sector 1895trivial sector 1895  8
+
+non trivial sector 1909trivial sector 1909 8
+
+non trivial sector 1915trivial sector 1915 9
+
+non trivial sector 1911trivial sector 1911  9
+
+non trivial sector 1913trivial sector 1913 8
+
+non trivial sector 1905trivial sector 1905 7
+
+non trivial sector 1931trivial sector 1931 77
+
+non trivial sector 1926trivial sector 1926 6
+
+non trivial sector 1919 10
+0
+non trivial sector 1927trivial sector 1927 7
+
+non trivial sector 1929trivial sector 1929 66
+non trivial sector 1924trivial sector 1924 5
+
+non trivial sector 1925trivial sector 1925 66
+nnon trivial sector 1904 66
+
+non trivial sector non trivial sector 1923 923 6
+
+non trivial sector 1918trivial sector 1918 9
+
+non trivial sector 1939trivial sector 1939 77
+non trivial sector 1934trivial sector 1934  7
+
+non trivial sector non trivial sector 1933 77
+non trivial sector 1938trivial sector 1938 66
+non trivial sector 1942trivial sector 1942 77
+non trivial sector 1932trivial sector 1932 66
+non trivial sector 1943trivial sector 1943 8
+non trivial sector 1941trivial sector 1941 7
+non trivial sector 1940trivial sector 1940 66
+
+non trivial sector 1930trivial sector 1930 66
+
+non trivial sector 1945trivial sector 1945 7
+
+non trivial sector 1946trivial sector 1946 7
+non trivial sector 1961trivial sector 1961 7
+
+non trivial sector non trivial sector 1935 88
+
+non trivial sector 1936trivial sector 1936 55
+non trivial sector non trivial sector 1950 88
+non trivial sector 1922trivial sector 1922 5
+
+non trivial sector 1955trivial sector 1955 77
+
+non trivial sector 1957trivial sector 1957 77
+non trivial sector 1937trivial sector 1937 66
+
+non trivial sector 1948trivial sector 1948 77
+non trivial sector 1944 6
+
+non trivial sector 1962trivial sector 1962 77
+
+non trivial sector 1947 947 8
+
+non trivial sector 1976 7
+non trivial sector 1954 6
+
+non trivial sector 1964trivial sector 1964 7
+
+non trivial sector 1969trivial sector 1969 7
+
+non trivial sector 1949trivial sector 1949 88
+
+non trivial sector 1966trivial sector 1966 8
+
+non trivial sector 1956trivial sector 1956 66
+
+non trivial sector 1958trivial sector 1958 7
+
+non trivial sector 1963trivial sector 1963 88
+
+non trivial sector non trivial sector 1977 88
+non trivial sector 1970trivial sector 1970 77
+non trivial sector 1974trivial sector 1974 8
+
+non trivial sector 1980trivial sector 1980 88
+
+non trivial sector 1965trivial sector 1965 8
+non trivial sector 1959 959 8
+non trivial sector non trivial sector 1968 968 6
+non trivial sector 1978trivial sector 1978 88
+
+non trivial sector 1996trivial sector 1996 77
+
+non trivial sector 1951trivial sector 1951 9
+
+non trivial sector 1967 967 9
+non trivial sector non trivial sector 1989 989 7
+
+non trivial sector 1975trivial sector 1975 99
+
+non trivial sector 1973trivial sector 1973 88
+non trivial sector 1979trivial sector 1979 9
+non trivial sector 1991trivial sector 1991 88
+
+non trivial sector 1997trivial sector 1997 88
+
+non trivial sector non trivial sector 1987 77
+non trivial sector non trivial sector 1981 981 9
+nnon trivial sector 1988 69886
+
+non trivial sector 1990trivial sector 1990 77
+
+non trivial sector 1982trivial sector 1982 99
+non trivial sector 1995trivial sector 1995 88
+
+non trivial sector 2004trivial sector 2004 77
+
+non trivial sector 1986trivial sector 1986 6
+
+non trivial sector 1971trivial sector 1971 8
+nnon trivial sector 2003 8
+non trivial sector non trivial sector 20022002 7
+non trivial sector 2001trivial sector 2001 77
+non trivial sector 2000trivial sector 2000 66
+
+non trivial sector 2008trivial sector 2008 77
+non trivial sector 1998trivial sector 1998 88
+
+non trivial sector non trivial sector 2005 8
+
+non trivial sector 2007trivial sector 2007 99
+
+non trivial sector 2009trivial sector 2009 88
+
+non trivial sector non trivial sector 1972 77
+non trivial sector 1983trivial sector 1983 110
+non trivial sector 2019trivial sector 2019 88
+
+non trivial sector 2022 022 8
+
+non trivial sector 2015 015 10
+
+non trivial sector 2020trivial sector 2020 77
+non trivial sector 2021 8
+nnon trivial sector 1994 7
+non trivial sector 2012trivial sector 2012 88
+
+non trivial sector 2006 006 8
+non trivial sector 2023trivial sector 2023 9
+
+non trivial sector 2010 010 8
+
+non trivial sector 2011trivial sector 2011 9
+nnon trivial sector 2025 8
+
+non trivial sector 2027trivial sector 2027 9
+
+non trivial sector 1999trivial sector 1999 99
+non trivial sector 1993trivial sector 1993  7
+
+non trivial sector non trivial sector 2013 99
+
+non trivial sector 2029trivial sector 2029 99
+
+non trivial sector non trivial sector 2028 028 8
+
+non trivial sector non trivial sector 2026 026 8
+
+non trivial sector 2033trivial sector 2033 8
+non trivial sector 2031trivial sector 2031 110
+
+non trivial sector 2034 88
+
+non trivial sector 2018 018 7
+non trivial sector 2037trivial sector 2037 9
+
+non trivial sector 2032 7
+
+non trivial sector 2030trivial sector 2030 9
+
+non trivial sector 2042 9
+non trivial sector 2014trivial sector 2014 99
+non trivial sector 2035trivial sector 2035 9
+non trivial sector 2046 10
+non trivial sector 2040 8
+non trivial sector 2047trivial sector 2047 11
+non trivial sector 2043 10
+non trivial sector 2041 9
+non trivial sector 2036 8
+non trivial sector 2039 10
+non trivial sector 2038 9
+non trivial sector 2045 10
+non trivial sector 2044 9
+
+Non trivial sectors in total: 1620
+Trivial sectors in total: 428
+( 0.4 s )
+
+Search symmetry relations: 
+
+( 0.1 s )
+***********************************************************
+Prepare Symmetries for the topology: TTH
+***********************************************************
+Build symmetries for TTH x TTH 
+Kira maps this sector 162 to this sector 162
+with external Symmetry 0
+Kira maps this sector 164 to this sector 162
+with external Symmetry 0
+Kira maps this sector 164 to this sector 162
+with external Symmetry 0
+Kira maps this sector 50 to this sector 50
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 148 to this sector 50
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 148 to this sector 50
+with external Symmetry 0
+Kira maps this sector 52 to this sector 52
+with external Symmetry 0
+Kira maps this sector 56 to this sector 56
+with external Symmetry 0
+Kira maps this sector 56 to this sector 56
+with external Symmetry 0
+Kira maps this sector 56 to this sector 56
+with external Symmetry 0
+Kira maps this sector 56 to this sector 56
+with external Symmetry 0
+Kira maps this sector 56 to this sector 56
+with external Symmetry 0
+Kira maps this sector 145 to this sector 56
+with external Symmetry 0
+Kira maps this sector 145 to this sector 56
+with external Symmetry 0
+Kira maps this sector 145 to this sector 56
+with external Symmetry 0
+Kira maps this sector 145 to this sector 56
+with external Symmetry 0
+Kira maps this sector 145 to this sector 56
+with external Symmetry 0
+Kira maps this sector 145 to this sector 56
+with external Symmetry 0
+Kira maps this sector 146 to this sector 146
+with external Symmetry 0
+Kira maps this sector 82 to this sector 82
+with external Symmetry 0
+Kira maps this sector 84 to this sector 84
+with external Symmetry 0
+Kira maps this sector 163 to this sector 163
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 172 to this sector 163
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 172 to this sector 163
+with external Symmetry 0
+Kira maps this sector 165 to this sector 165
+with external Symmetry 0
+Kira maps this sector 166 to this sector 166
+with external Symmetry 0
+Kira maps this sector 166 to this sector 166
+with external Symmetry 0
+Kira maps this sector 166 to this sector 166
+with external Symmetry 0
+Kira maps this sector 169 to this sector 169
+with external Symmetry 0
+Kira maps this sector 169 to this sector 169
+with external Symmetry 0
+Kira maps this sector 169 to this sector 169
+with external Symmetry 0
+Kira maps this sector 169 to this sector 169
+with external Symmetry 0
+Kira maps this sector 169 to this sector 169
+with external Symmetry 0
+Kira maps this sector 169 to this sector 169
+with external Symmetry 0
+Kira maps this sector 169 to this sector 169
+with external Symmetry 0
+Kira maps this sector 170 to this sector 170
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 226 to this sector 226
+with external Symmetry 0
+Kira maps this sector 228 to this sector 226
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 228 to this sector 226
+with external Symmetry 0
+Kira maps this sector 51 to this sector 51
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 156 to this sector 51
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 156 to this sector 51
+with external Symmetry 0
+Kira maps this sector 53 to this sector 53
+with external Symmetry 0
+Kira maps this sector 54 to this sector 54
+with external Symmetry 0
+Kira maps this sector 57 to this sector 57
+with external Symmetry 0
+Kira maps this sector 177 to this sector 57
+with external Symmetry 0
+Kira maps this sector 177 to this sector 57
+with external Symmetry 0
+Kira maps this sector 153 to this sector 57
+with external Symmetry 0
+Kira maps this sector 153 to this sector 57
+with external Symmetry 0
+Kira maps this sector 184 to this sector 57
+with external Symmetry 0
+Kira maps this sector 184 to this sector 57
+with external Symmetry 0
+Kira maps this sector 58 to this sector 58
+with external Symmetry 0
+Kira maps this sector 60 to this sector 60
+with external Symmetry 0
+Kira maps this sector 147 to this sector 147
+with external Symmetry 0
+Kira maps this sector 149 to this sector 149
+with external Symmetry 0
+Kira maps this sector 150 to this sector 150
+with external Symmetry 0
+Kira maps this sector 154 to this sector 154
+with external Symmetry 0
+Kira maps this sector 83 to this sector 83
+with external Symmetry 0
+Kira maps this sector 85 to this sector 85
+with external Symmetry 0
+Kira maps this sector 86 to this sector 86
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 89 to this sector 89
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 89 to this sector 89
+with external Symmetry 0
+Kira maps this sector 89 to this sector 89
+with external Symmetry 0
+Kira maps this sector 120 to this sector 120
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 209 to this sector 120
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 209 to this sector 120
+with external Symmetry 0
+Kira maps this sector 90 to this sector 90
+with external Symmetry 0
+Kira maps this sector 92 to this sector 92
+with external Symmetry 0
+Kira maps this sector 167 to this sector 167
+with external Symmetry 0
+Kira maps this sector 171 to this sector 171
+with external Symmetry 0
+Kira maps this sector 173 to this sector 173
+with external Symmetry 0
+Kira maps this sector 174 to this sector 174
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 227 to this sector 227
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 236 to this sector 227
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 236 to this sector 227
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 229 to this sector 229
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 230 to this sector 230
+with external Symmetry 0
+Kira maps this sector 230 to this sector 230
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 230 to this sector 230
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 233 to this sector 233
+with external Symmetry 0
+Kira maps this sector 233 to this sector 233
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 233 to this sector 233
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 234 to this sector 234
+with external Symmetry 0
+Kira maps this sector 55 to this sector 55
+with external Symmetry 0
+Kira maps this sector 59 to this sector 59
+with external Symmetry 0
+Kira maps this sector 61 to this sector 61
+with external Symmetry 0
+Kira maps this sector 62 to this sector 62
+with external Symmetry 0
+Kira maps this sector 151 to this sector 151
+with external Symmetry 0
+Kira maps this sector 185 to this sector 185
+with external Symmetry 0
+Kira maps this sector 185 to this sector 185
+with external Symmetry 0
+Kira maps this sector 185 to this sector 185
+with external Symmetry 0
+Kira maps this sector 155 to this sector 155
+with external Symmetry 0
+Kira maps this sector 157 to this sector 157
+with external Symmetry 0
+Kira maps this sector 158 to this sector 158
+with external Symmetry 0
+Kira maps this sector 87 to this sector 87
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 217 to this sector 121
+with external Symmetry 0
+Kira maps this sector 91 to this sector 91
+with external Symmetry 0
+Kira maps this sector 93 to this sector 93
+with external Symmetry 0
+Kira maps this sector 94 to this sector 94
+with external Symmetry 0
+Kira maps this sector 241 to this sector 241
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 248 to this sector 241
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 248 to this sector 241
+with external Symmetry 0
+Kira maps this sector 175 to this sector 175
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 231 to this sector 231
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 235 to this sector 235
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 237 to this sector 237
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 238 to this sector 238
+with external Symmetry 0
+Kira maps this sector 63 to this sector 63
+with external Symmetry 0
+Kira maps this sector 159 to this sector 159
+with external Symmetry 0
+Kira maps this sector 95 to this sector 95
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 249 to this sector 249
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 239 to this sector 239
+with external Symmetry 0
+
+Sector relations: 29
+Sector symmetries: 83
+( 0.0 s )
+
+***********************************************************
+Kira starts the reduction of the topology: TTH
+***********************************************************
+
+***** Select equations recursively ************************
+length of mandatory list: 329
+Algebraic reconstruction is switched off.
+663 independent coefficients
+directory to the masters: TTH
+Number of master integrals: 31
+TTH[0,1,0,0,0,1,0,1,0,0,0]  # 162
+TTH[1,0,0,1,0,1,0,1,0,0,0]  # 169
+TTH[0,1,0,1,0,1,0,1,0,0,0]  # 170
+TTH[1,1,0,1,0,1,0,1,0,0,0]  # 171
+TTH[0,1,0,0,1,1,0,0,0,0,0]  #  50
+TTH[0,0,0,1,1,1,0,0,0,0,0]  #  56
+TTH[0,1,0,1,1,1,0,0,0,0,0]  #  58
+TTH[-1,1,0,1,1,1,0,0,0,0,0] #  58
+TTH[0,1,0,0,1,0,0,1,0,0,0]  # 146
+TTH[-1,1,0,0,1,0,0,1,0,0,0] # 146
+TTH[1,1,0,0,1,0,0,1,0,0,0]  # 147
+TTH[0,1,0,0,1,1,0,1,0,0,0]  # 178
+TTH[-1,1,0,0,1,1,0,1,0,0,0] # 178
+TTH[0,1,-1,0,1,1,0,1,0,0,0] # 178
+TTH[0,1,0,1,1,1,0,1,0,0,0]  # 186
+TTH[0,1,0,0,1,0,1,0,0,0,0]  #  82
+TTH[-1,1,0,0,1,0,1,0,0,0,0] #  82
+TTH[1,0,0,1,1,0,1,0,0,0,0]  #  89
+TTH[0,1,0,1,1,0,1,0,0,0,0]  #  90
+TTH[1,1,0,1,1,0,1,0,0,0,0]  #  91
+TTH[1,1,0,1,1,-1,1,0,0,0,0] #  91
+TTH[0,1,0,1,1,1,1,0,0,0,0]  # 122
+TTH[-1,1,0,1,1,1,1,0,0,0,0] # 122
+TTH[1,1,0,0,1,0,1,1,0,0,0]  # 211
+TTH[1,1,0,0,1,-1,1,1,0,0,0] # 211
+TTH[0,1,0,0,1,1,1,1,0,0,0]  # 242
+TTH[-1,1,0,0,1,1,1,1,0,0,0] # 242
+TTH[0,1,0,1,1,1,1,1,0,0,0]  # 250
+TTH[1,1,0,1,1,1,1,1,0,0,0]  # 251
+TTH[1,1,-1,1,1,1,1,1,0,0,0] # 251
+TTH[1,1,0,1,1,1,1,1,0,-1,0] # 251
+
+Number of selected equations to reduce: 0 equations
+
+Number of selected equations to reduce: 0 equations
+Regenerate:
+
+Number of selected equations to reduce: 8251 equations
+( 2.3 s )
+
+***** Select equations recursively ************************
+length of mandatory list: 329
+Loading 8251 equations.
+
+[1;34mFireFly info:[0m Parsed 62814 functions of which 309 are distinct
+
+System loaded in 0.122729 s
+Prime set to 2147483647
+Finished prime
+Average times:
+Parsing: 0.000 s
+Forward: 0.037 s
+Backsubs: 0.002 s
+
+One variable is set to 1: {}
+Total time:
+( 6.2 s )
