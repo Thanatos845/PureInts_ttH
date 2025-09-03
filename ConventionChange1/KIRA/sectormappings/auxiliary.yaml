@@ -1,0 +1,3 @@
+auxiliary:
+ - name: "DB"
+   permutation: [0,4,5,2,6,1,3,7,8]

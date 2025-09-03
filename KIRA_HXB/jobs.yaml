@@ -1,0 +1,10 @@
+jobs:
+ - reduce_sectors:
+    reduce:
+      - {topologies: [hxb], sectors: [b1111100110000],r: 7,s: 3,d: 0}
+    select_integrals:
+     select_mandatory_list:
+      - {topologies: [hxb], sectors: [b1111100110000],r: 7,s: 3,d: 0}
+    run_initiate: true
+    numerical_points: numerics
+    run_firefly: true

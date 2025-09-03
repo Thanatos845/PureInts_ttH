@@ -1,0 +1,246 @@
+25 Fermat/Blackbox instances will be run in parallel.
+The user defined environment variable FERMATPATH for Fermat is set:
+/home/dschiebe/installs/Ferl7/fer64
+The directories for the temporary files, result files and the sector mapping files are: 
+./tmp
+./results
+./sectormappings
+One variable is set to 1: {}
+Kira prepares topology: TTH and top level sector: 
+255 
+
+*****Integral ordering*************************************
+Kira will use the integral ordering: 1.
+With topology: TTH use intermediate permutation
+0 5 1 2 3 7 6 4 8 9 10 
+With topology: TTH use intermediate permutation
+0 5 1 2 3 7 6 4 8 9 10 
+With topology: TTH use intermediate permutation
+0 5 1 2 3 7 6 4 8 9 10 
+With topology: TTH use intermediate permutation
+0 5 1 2 3 7 6 4 8 9 10 
+With topology: TTH use intermediate permutation
+0 5 1 2 3 7 6 4 8 9 10 
+With topology: TTH use intermediate permutation
+0 5 1 2 3 7 6 4 8 9 10 
+With topology: TTH use intermediate permutation
+0 5 1 2 3 7 6 4 8 9 10 
+With topology: TTH use intermediate permutation
+0 5 1 2 3 7 6 4 8 9 10 
+With topology: TTH use intermediate permutation
+0 5 1 2 3 7 6 4 8 9 10 
+With topology: TTH use intermediate permutation
+0 5 1 2 3 7 6 4 8 9 10 
+With topology: TTH use intermediate permutation
+0 5 1 2 3 7 6 4 8 9 10 
+With topology: TTH use intermediate permutation
+0 5 1 2 3 7 6 4 8 9 10 
+With topology: TTH use intermediate permutation
+0 5 1 2 3 7 6 4 8 9 10 
+With topology: TTH use intermediate permutation
+0 5 1 2 3 7 6 4 8 9 10 
+With topology: TTH use intermediate permutation
+0 5 1 2 3 7 6 4 8 9 10 
+With topology: TTH use intermediate permutation
+0 5 1 2 3 7 6 4 8 9 10 
+With topology: TTH use intermediate permutation
+0 5 1 2 3 7 6 4 8 9 10 
+With topology: TTH use intermediate permutation
+0 5 1 2 3 7 6 4 8 9 10 
+With topology: TTH use intermediate permutation
+0 5 1 2 3 7 6 4 8 9 10 
+With topology: TTH use intermediate permutation
+0 5 1 2 3 7 6 4 8 9 10 
+With topology: TTH use intermediate permutation
+0 5 1 2 3 7 6 4 8 9 10 
+With topology: TTH use intermediate permutation
+0 5 1 2 3 7 6 4 8 9 10 
+With topology: TTH use intermediate permutation
+0 5 1 2 3 7 6 4 8 9 10 
+With topology: TTH use intermediate permutation
+0 5 1 2 3 7 6 4 8 9 10 
+With topology: TTH use intermediate permutation
+0 5 1 2 3 7 6 4 8 9 10 
+With topology: TTH use intermediate permutation
+0 5 1 2 3 7 6 4 8 9 10 
+With topology: TTH use intermediate permutation
+0 5 1 2 3 7 6 4 8 9 10 
+With topology: TTH use intermediate permutation
+0 5 1 2 3 7 6 4 8 9 10 
+With topology: TTH use intermediate permutation
+0 5 1 2 3 7 6 4 8 9 10 
+With topology: TTH use intermediate permutation
+0 5 1 2 3 7 6 4 8 9 10 
+With topology: TTH use intermediate permutation
+0 5 1 2 3 7 6 4 8 9 10 
+With topology: TTH use intermediate permutation
+0 5 1 2 3 7 6 4 8 9 10 
+With topology: TTH use intermediate permutation
+0 5 1 2 3 7 6 4 8 9 10 
+With topology: TTH use intermediate permutation
+0 5 1 2 3 7 6 4 8 9 10 
+With topology: TTH use intermediate permutation
+0 5 1 2 3 7 6 4 8 9 10 
+With topology: TTH use intermediate permutation
+0 5 1 2 3 7 6 4 8 9 10 
+With topology: TTH use intermediate permutation
+0 5 1 2 3 7 6 4 8 9 10 
+With topology: TTH use intermediate permutation
+0 5 1 2 3 7 6 4 8 9 10 
+With topology: TTH use intermediate permutation
+0 5 1 2 3 7 6 4 8 9 10 
+With topology: TTH use intermediate permutation
+0 5 1 2 3 7 6 4 8 9 10 
+With topology: TTH use intermediate permutation
+0 5 1 2 3 7 6 4 8 9 10 
+With topology: TTH use intermediate permutation
+0 5 1 2 3 7 6 4 8 9 10 
+With topology: TTH use intermediate permutation
+0 5 1 2 3 7 6 4 8 9 10 
+With topology: TTH use intermediate permutation
+0 5 1 2 3 7 6 4 8 9 10 
+With topology: TTH use intermediate permutation
+0 5 1 2 3 7 6 4 8 9 10 
+With topology: TTH use intermediate permutation
+0 5 1 2 3 7 6 4 8 9 10 
+With topology: TTH use intermediate permutation
+0 5 1 2 3 7 6 4 8 9 10 
+With topology: TTH use intermediate permutation
+0 5 1 2 3 7 6 4 8 9 10 
+With topology: TTH use intermediate permutation
+0 5 1 2 3 7 6 4 8 9 10 
+With topology: TTH use intermediate permutation
+0 5 1 2 3 7 6 4 8 9 10 
+With topology: TTH use intermediate permutation
+0 5 1 2 3 7 6 4 8 9 10 
+With topology: TTH use intermediate permutation
+0 5 1 2 3 7 6 4 8 9 10 
+With topology: TTH use intermediate permutation
+0 5 1 2 3 7 6 4 8 9 10 
+With topology: TTH use intermediate permutation
+0 5 1 2 3 7 6 4 8 9 10 
+With topology: TTH use intermediate permutation
+0 5 1 2 3 7 6 4 8 9 10 
+With topology: TTH use intermediate permutation
+0 5 1 2 3 7 6 4 8 9 10 
+With topology: TTH use intermediate permutation
+0 5 1 2 3 7 6 4 8 9 10 
+Following reductions will be performed for the topology: TTH
+Sector: 50 rmax: 3 smax: 0 dmax: 0 
+
+Sector: 56 rmax: 3 smax: 0 dmax: 0 
+
+Sector: 82 rmax: 5 smax: 0 dmax: 2 
+
+Sector: 146 rmax: 5 smax: 0 dmax: 2 
+
+Sector: 162 rmax: 3 smax: 0 dmax: 0 
+
+Sector: 58 rmax: 5 smax: 0 dmax: 1 
+
+Sector: 89 rmax: 4 smax: 0 dmax: 0 
+
+Sector: 90 rmax: 5 smax: 0 dmax: 1 
+
+Sector: 147 rmax: 5 smax: 0 dmax: 1 
+
+Sector: 169 rmax: 4 smax: 0 dmax: 0 
+
+Sector: 170 rmax: 5 smax: 0 dmax: 1 
+
+Sector: 178 rmax: 6 smax: 0 dmax: 2 
+
+Sector: 91 rmax: 6 smax: 0 dmax: 1 
+
+Sector: 122 rmax: 6 smax: 0 dmax: 1 
+
+Sector: 171 rmax: 5 smax: 0 dmax: 0 
+
+Sector: 186 rmax: 5 smax: 0 dmax: 0 
+
+Sector: 211 rmax: 6 smax: 0 dmax: 1 
+
+Sector: 242 rmax: 6 smax: 0 dmax: 1 
+
+Sector: 250 rmax: 6 smax: 0 dmax: 0 
+
+Sector: 251 rmax: 7 smax: 1 dmax: 0 
+
+Sector: 243 rmax: 6 smax: 0 dmax: 0 
+
+Sector: 50 rmax: 4 smax: 1 dmax: 1 
+
+Sector: 56 rmax: 5 smax: 1 dmax: 2 
+
+Sector: 82 rmax: 6 smax: 1 dmax: 3 
+
+Sector: 146 rmax: 6 smax: 1 dmax: 3 
+
+Sector: 162 rmax: 4 smax: 1 dmax: 1 
+
+Sector: 58 rmax: 6 smax: 1 dmax: 2 
+
+Sector: 88 rmax: 5 smax: 0 dmax: 2 
+
+Sector: 89 rmax: 6 smax: 1 dmax: 2 
+
+Sector: 90 rmax: 6 smax: 1 dmax: 2 
+
+Sector: 147 rmax: 6 smax: 1 dmax: 2 
+
+Sector: 168 rmax: 4 smax: 0 dmax: 1 
+
+Sector: 169 rmax: 5 smax: 1 dmax: 1 
+
+Sector: 170 rmax: 6 smax: 1 dmax: 2 
+
+Sector: 178 rmax: 7 smax: 1 dmax: 3 
+
+Sector: 91 rmax: 7 smax: 1 dmax: 2 
+
+Sector: 122 rmax: 7 smax: 1 dmax: 2 
+
+Sector: 120 rmax: 6 smax: 0 dmax: 2 
+
+Sector: 171 rmax: 6 smax: 1 dmax: 1 
+
+Sector: 186 rmax: 6 smax: 1 dmax: 1 
+
+Sector: 184 rmax: 5 smax: 0 dmax: 1 
+
+Sector: 210 rmax: 6 smax: 0 dmax: 2 
+
+Sector: 211 rmax: 7 smax: 1 dmax: 2 
+
+Sector: 83 rmax: 6 smax: 0 dmax: 2 
+
+Sector: 242 rmax: 7 smax: 1 dmax: 2 
+
+Sector: 114 rmax: 6 smax: 0 dmax: 2 
+
+Sector: 250 rmax: 7 smax: 1 dmax: 1 
+
+Sector: 248 rmax: 6 smax: 0 dmax: 1 
+
+Sector: 218 rmax: 6 smax: 0 dmax: 1 
+
+Sector: 249 rmax: 7 smax: 1 dmax: 1 
+
+Sector: 251 rmax: 8 smax: 2 dmax: 1 
+
+Sector: 219 rmax: 7 smax: 1 dmax: 1 
+
+Sector: 187 rmax: 7 smax: 1 dmax: 1 
+
+Sector: 123 rmax: 7 smax: 1 dmax: 1 
+
+Sector: 179 rmax: 6 smax: 0 dmax: 1 
+
+Sector: 243 rmax: 7 smax: 1 dmax: 1 
+
+Sector: 115 rmax: 6 smax: 0 dmax: 1 
+
+Kira::ExceptionInternal: Kira::update_auxiliary_file(), Last Kira run set 0 variables
+         to numeric values. This time you request 8.
+
+Kira run aborted

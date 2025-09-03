@@ -1,0 +1,979 @@
+25 Fermat/Blackbox instances will be run in parallel.
+The user defined environment variable FERMATPATH for Fermat is set:
+/home/dschiebe/installs/Ferl7/fer64
+The directories for the temporary files, result files and the sector mapping files are: 
+./tmp
+./results
+./sectormappings
+One variable is set to 1: {}
+Kira prepares topology: DB and top level sector: 
+127 
+
+*****Integral ordering*************************************
+VERSION table created successfully
+Kira database version number: 2.1
+WEIGHTBITS table created successfully
+INTEGRALORDERING table created successfully
+Kira will use the integral ordering: 1.
+With topology: DB use intermediate permutation
+0 4 5 2 6 1 3 7 8 
+With topology: DB use intermediate permutation
+0 4 5 2 6 1 3 7 8 
+With topology: DB use intermediate permutation
+0 4 5 2 6 1 3 7 8 
+With topology: DB use intermediate permutation
+0 4 5 2 6 1 3 7 8 
+With topology: DB use intermediate permutation
+0 4 5 2 6 1 3 7 8 
+With topology: DB use intermediate permutation
+0 4 5 2 6 1 3 7 8 
+With topology: DB use intermediate permutation
+0 4 5 2 6 1 3 7 8 
+With topology: DB use intermediate permutation
+0 4 5 2 6 1 3 7 8 
+With topology: DB use intermediate permutation
+0 4 5 2 6 1 3 7 8 
+With topology: DB use intermediate permutation
+0 4 5 2 6 1 3 7 8 
+With topology: DB use intermediate permutation
+0 4 5 2 6 1 3 7 8 
+With topology: DB use intermediate permutation
+0 4 5 2 6 1 3 7 8 
+With topology: DB use intermediate permutation
+0 4 5 2 6 1 3 7 8 
+With topology: DB use intermediate permutation
+0 4 5 2 6 1 3 7 8 
+With topology: DB use intermediate permutation
+0 4 5 2 6 1 3 7 8 
+With topology: DB use intermediate permutation
+0 4 5 2 6 1 3 7 8 
+With topology: DB use intermediate permutation
+0 4 5 2 6 1 3 7 8 
+With topology: DB use intermediate permutation
+0 4 5 2 6 1 3 7 8 
+With topology: DB use intermediate permutation
+0 4 5 2 6 1 3 7 8 
+With topology: DB use intermediate permutation
+0 4 5 2 6 1 3 7 8 
+With topology: DB use intermediate permutation
+0 4 5 2 6 1 3 7 8 
+With topology: DB use intermediate permutation
+0 4 5 2 6 1 3 7 8 
+With topology: DB use intermediate permutation
+0 4 5 2 6 1 3 7 8 
+With topology: DB use intermediate permutation
+0 4 5 2 6 1 3 7 8 
+With topology: DB use intermediate permutation
+0 4 5 2 6 1 3 7 8 
+With topology: DB use intermediate permutation
+0 4 5 2 6 1 3 7 8 
+With topology: DB use intermediate permutation
+0 4 5 2 6 1 3 7 8 
+With topology: DB use intermediate permutation
+0 4 5 2 6 1 3 7 8 
+With topology: DB use intermediate permutation
+0 4 5 2 6 1 3 7 8 
+With topology: DB use intermediate permutation
+0 4 5 2 6 1 3 7 8 
+With topology: DB use intermediate permutation
+0 4 5 2 6 1 3 7 8 
+With topology: DB use intermediate permutation
+0 4 5 2 6 1 3 7 8 
+With topology: DB use intermediate permutation
+0 4 5 2 6 1 3 7 8 
+With topology: DB use intermediate permutation
+0 4 5 2 6 1 3 7 8 
+With topology: DB use intermediate permutation
+0 4 5 2 6 1 3 7 8 
+With topology: DB use intermediate permutation
+0 4 5 2 6 1 3 7 8 
+With topology: DB use intermediate permutation
+0 4 5 2 6 1 3 7 8 
+With topology: DB use intermediate permutation
+0 4 5 2 6 1 3 7 8 
+With topology: DB use intermediate permutation
+0 4 5 2 6 1 3 7 8 
+With topology: DB use intermediate permutation
+0 4 5 2 6 1 3 7 8 
+With topology: DB use intermediate permutation
+0 4 5 2 6 1 3 7 8 
+With topology: DB use intermediate permutation
+0 4 5 2 6 1 3 7 8 
+With topology: DB use intermediate permutation
+0 4 5 2 6 1 3 7 8 
+With topology: DB use intermediate permutation
+0 4 5 2 6 1 3 7 8 
+With topology: DB use intermediate permutation
+0 4 5 2 6 1 3 7 8 
+With topology: DB use intermediate permutation
+0 4 5 2 6 1 3 7 8 
+With topology: DB use intermediate permutation
+0 4 5 2 6 1 3 7 8 
+With topology: DB use intermediate permutation
+0 4 5 2 6 1 3 7 8 
+With topology: DB use intermediate permutation
+0 4 5 2 6 1 3 7 8 
+With topology: DB use intermediate permutation
+0 4 5 2 6 1 3 7 8 
+With topology: DB use intermediate permutation
+0 4 5 2 6 1 3 7 8 
+With topology: DB use intermediate permutation
+0 4 5 2 6 1 3 7 8 
+With topology: DB use intermediate permutation
+0 4 5 2 6 1 3 7 8 
+With topology: DB use intermediate permutation
+0 4 5 2 6 1 3 7 8 
+With topology: DB use intermediate permutation
+0 4 5 2 6 1 3 7 8 
+With topology: DB use intermediate permutation
+0 4 5 2 6 1 3 7 8 
+With topology: DB use intermediate permutation
+0 4 5 2 6 1 3 7 8 
+With topology: DB use intermediate permutation
+0 4 5 2 6 1 3 7 8 
+Following reductions will be performed for the topology: DB
+Sector: 26 rmax: 3 smax: 0 dmax: 0 
+
+Sector: 28 rmax: 3 smax: 0 dmax: 0 
+
+Sector: 42 rmax: 5 smax: 0 dmax: 2 
+
+Sector: 74 rmax: 5 smax: 0 dmax: 2 
+
+Sector: 82 rmax: 3 smax: 0 dmax: 0 
+
+Sector: 30 rmax: 5 smax: 0 dmax: 1 
+
+Sector: 45 rmax: 4 smax: 0 dmax: 0 
+
+Sector: 46 rmax: 5 smax: 0 dmax: 1 
+
+Sector: 75 rmax: 5 smax: 0 dmax: 1 
+
+Sector: 85 rmax: 4 smax: 0 dmax: 0 
+
+Sector: 86 rmax: 5 smax: 0 dmax: 1 
+
+Sector: 90 rmax: 6 smax: 0 dmax: 2 
+
+Sector: 47 rmax: 6 smax: 0 dmax: 1 
+
+Sector: 62 rmax: 6 smax: 0 dmax: 1 
+
+Sector: 87 rmax: 5 smax: 0 dmax: 0 
+
+Sector: 94 rmax: 5 smax: 0 dmax: 0 
+
+Sector: 107 rmax: 6 smax: 0 dmax: 1 
+
+Sector: 122 rmax: 6 smax: 0 dmax: 1 
+
+Sector: 126 rmax: 6 smax: 0 dmax: 0 
+
+Sector: 127 rmax: 7 smax: 1 dmax: 0 
+
+Sector: 123 rmax: 6 smax: 0 dmax: 0 
+
+Sector: 26 rmax: 5 smax: 1 dmax: 2 
+
+Sector: 42 rmax: 6 smax: 1 dmax: 3 
+
+Sector: 74 rmax: 6 smax: 1 dmax: 3 
+
+Sector: 82 rmax: 5 smax: 1 dmax: 2 
+
+Sector: 30 rmax: 6 smax: 1 dmax: 2 
+
+Sector: 46 rmax: 6 smax: 1 dmax: 2 
+
+Sector: 75 rmax: 6 smax: 1 dmax: 2 
+
+Sector: 86 rmax: 6 smax: 1 dmax: 2 
+
+Sector: 90 rmax: 7 smax: 1 dmax: 3 
+
+Sector: 47 rmax: 7 smax: 1 dmax: 2 
+
+Sector: 43 rmax: 6 smax: 0 dmax: 2 
+
+Sector: 62 rmax: 7 smax: 1 dmax: 2 
+
+Sector: 58 rmax: 6 smax: 0 dmax: 2 
+
+Sector: 87 rmax: 6 smax: 1 dmax: 1 
+
+Sector: 83 rmax: 5 smax: 0 dmax: 1 
+
+Sector: 94 rmax: 6 smax: 1 dmax: 1 
+
+Sector: 106 rmax: 6 smax: 0 dmax: 2 
+
+Sector: 107 rmax: 7 smax: 1 dmax: 2 
+
+Sector: 122 rmax: 7 smax: 1 dmax: 2 
+
+Sector: 126 rmax: 7 smax: 1 dmax: 1 
+
+Sector: 127 rmax: 8 smax: 2 dmax: 1 
+
+Sector: 123 rmax: 7 smax: 1 dmax: 1 
+
+Sector: 111 rmax: 7 smax: 1 dmax: 1 
+
+Sector: 95 rmax: 7 smax: 1 dmax: 1 
+
+Sector: 63 rmax: 6 smax: 0 dmax: 0 
+
+Sector: 28 rmax: 4 smax: 1 dmax: 1 
+
+Sector: 66 rmax: 3 smax: 0 dmax: 1 
+
+Sector: 44 rmax: 4 smax: 0 dmax: 1 
+
+Sector: 45 rmax: 5 smax: 1 dmax: 1 
+
+Sector: 84 rmax: 4 smax: 0 dmax: 1 
+
+Sector: 69 rmax: 4 smax: 0 dmax: 1 
+
+Sector: 85 rmax: 5 smax: 1 dmax: 1 
+
+Sector: 70 rmax: 5 smax: 0 dmax: 2 
+
+Sector: 71 rmax: 5 smax: 0 dmax: 1 
+
+Sector: 78 rmax: 5 smax: 0 dmax: 1 
+
+Sector: 110 rmax: 6 smax: 0 dmax: 1 
+
+Sector: 91 rmax: 6 smax: 0 dmax: 1 
+
+***********************************************************
+Find IBP LI and symmetry relations for the topology: DB
+***********************************************************
+
+*****Generate IBP identities*******************************
+There are 10 IBP identities
+( 0.009228 s )
+
+*****Generate LI identities********************************
+There are 3 LI identities
+( 0.021681 s )
+
+*****Search trivial sectors********************************
+non trivial sector 26n trivial sector 26 3
+
+non trivial sector 28n trivial sector 28 33
+
+non trivial sector 27n trivial sector 27 4
+non trivial sector 29n trivial sector 29 4
+
+non trivial sector 42n trivial sector 42 3
+non trivial sector 30n trivial sector 30 4
+
+non trivial sector non trivial sector 43 44
+non trivial sector 45n trivial sector 45 4
+non trivial sector 31n trivial sector 31 55
+
+non trivial sector 46n trivial sector 46 4
+non trivial sector 61 5
+non trivial sector non trivial sector 60 0 4
+non trivial sector 58n trivial sector 58 44
+
+non trivial sector 62n trivial sector 62 55
+
+non trivial sector 59n trivial sector 59 5
+non trivial sector 83n trivial sector 83 4
+non trivial sector 47n trivial sector 47 55
+non trivial sector non trivial sector 75 44
+non trivial sector 63 3 6
+
+non trivial sector 74n trivial sector 74 3
+
+non trivial sector 73 33
+non trivial sector 86n trivial sector 86 4
+
+non trivial sector 78 484
+non trivial sector non trivial sector 90 44
+
+non trivial sector 93 3 5
+
+non trivial sector 77n trivial sector 77 44
+
+non trivial sector 92n trivial sector 92 4
+non trivial sector 94n trivial sector 94 55
+non trivial sector 79n trivial sector 79 55
+
+non trivial sector 110 trivial sector 110 55
+
+non trivial sector 89n trivial sector 89 44
+
+non trivial sector 95 5 6
+non trivial sector 85n trivial sector 85 4
+non trivial sector 87n trivial sector 87 5
+non trivial sector 121 55
+non trivial sector 91 1 5
+
+non trivial sector 109 trivial sector 109 55
+
+non trivial sector 107 trivial sector 107 5
+
+non trivial sector 117 trivial sector 117 5
+non trivial sector 124 trivial sector 124 5
+
+non trivial sector 105105 4
+
+non trivial sector 115 trivial sector 115 5
+non trivial sector 118 5
+non trivial sector 111 11 6
+non trivial sector 119 trivial sector 119 6
+
+non trivial sector 127 trivial sector 127 77
+
+non trivial sector 106 trivial sector 106 44
+
+non trivial sector 114 trivial sector 114 44
+
+non trivial sector 125 trivial sector 125 66
+non trivial sector 122 trivial sector 122 5
+
+non trivial sector 82n trivial sector 82 33
+non trivial sector non trivial sector 126 6
+
+non trivial sector 154 trivial sector 154 44
+
+non trivial sector 159 trivial sector 159 66
+non trivial sector 155 trivial sector 155 55
+
+non trivial sector 157 trivial sector 157 55
+non trivial sector 169 69 4
+
+non trivial sector 156 trivial sector 156 44
+
+non trivial sector 123 trivial sector 123 6
+
+non trivial sector 158 trivial sector 158 55
+non trivial sector 172 trivial sector 172 44
+
+non trivial sector non trivial sector 170 70 4
+
+non trivial sector 184 trivial sector 184 44
+
+non trivial sector 168 trivial sector 168 3
+
+non trivial sector non trivial sector 187 87 6
+
+non trivial sector non trivial sector 190 66
+
+non trivial sector 171 trivial sector 171 55
+
+non trivial sector 189 trivial sector 189 6
+
+non trivial sector 185 trivial sector 185 55
+
+non trivial sector 186 trivial sector 186 5
+non trivial sector 175 75 6
+
+non trivial sector 188 trivial sector 188 55
+
+non trivial sector 201 trivial sector 201 4
+
+non trivial sector 203 trivial sector 203 55
+
+non trivial sector 211 trivial sector 211 5
+non trivial sector 191 77
+non trivial sector 213 5
+
+non trivial sector 174 trivial sector 174 5
+
+non trivial sector non trivial sector 202 4
+
+non trivial sector 206 trivial sector 206 55
+
+non trivial sector 173 trivial sector 173 55
+non trivial sector 205 trivial sector 205 5
+
+non trivial sector non trivial sector 212 44
+
+non trivial sector non trivial sector 218 18 55
+non trivial sector 219 trivial sector 219 6
+
+non trivial sector 216 trivial sector 216 44
+non trivial sector 210 trivial sector 210 44
+non trivial sector 200 trivial sector 200 33
+
+non trivial sector 204 trivial sector 204 44
+non trivial sector 207 trivial sector 207 66
+
+non trivial sector non trivial sector 214 55
+
+non trivial sector 217 trivial sector 217 55
+
+non trivial sector 223 trivial sector 223 77
+
+non trivial sector 237 6
+
+non trivial sector 215 trivial sector 215 66
+
+non trivial sector 221 trivial sector 221 66
+
+non trivial sector 222 6
+
+non trivial sector 233 5335
+
+non trivial sector 238 trivial sector 238 66
+
+non trivial sector 249 trivial sector 249 6
+non trivial sector 239 trivial sector 239 7
+
+non trivial sector 243 trivial sector 243 6
+non trivial sector 247 trivial sector 247 77
+non trivial sector 244 trivial sector 244 55
+
+non trivial sector 246  6
+
+non trivial sector non trivial sector 248 48 5
+
+non trivial sector 245 45 trivial sector  6
+
+non trivial sector non trivial sector 250 50 6
+
+non trivial sector 234 trivial sector 234 55
+non trivial sector 220 5
+
+non trivial sector 242 trivial sector 242 5
+
+non trivial sector 236 trivial sector 236 55
+
+non trivial sector 232 trivial sector 232 4
+
+non trivial sector 235 35 6
+
+non trivial sector 254 trivial sector 254 7
+non trivial sector non trivial sector 251 77
+
+non trivial sector 253 trivial sector 253  77
+
+non trivial sector 252 trivial sector 252 66
+non trivial sector 267 trivial sector 267 44
+
+non trivial sector 271 71 5
+non trivial sector 275 trivial sector 275 4
+non trivial sector 255 55 8
+
+non trivial sector 279 trivial sector 279 5
+
+non trivial sector non trivial sector 278 78 4
+
+non trivial sector 274 trivial sector 274 3
+non trivial sector 265 3
+
+non trivial sector 266 trivial sector 266 3
+non trivial sector 277 4
+
+non trivial sector 284 4
+
+non trivial sector 281 81 4
+
+non trivial sector 282 44
+non trivial sector 293 trivial sector 293 44
+non trivial sector non trivial sector 298 44
+
+non trivial sector 290 trivial sector 290 3
+
+non trivial sector 269 trivial sector 269 44
+
+non trivial sector 268 trivial sector 268 33
+non trivial sector 301 trivial sector 301 5
+
+non trivial sector 286 86 55
+
+non trivial sector 270 trivial sector 270 44
+
+non trivial sector non trivial sector 291 4
+non trivial sector 283 83 5
+
+non trivial sector 285 trivial sector 285 5
+
+non trivial sector 307 trivial sector 307 5
+non trivial sector 314 trivial sector 314 5
+
+non trivial sector 316 trivial sector 316 5
+
+non trivial sector 313 13 5
+
+non trivial sector 295 trivial sector 295 55
+
+non trivial sector 294 trivial sector 294 4
+
+non trivial sector 300 trivial sector 300 44
+non trivial sector non trivial sector 309 55
+
+non trivial sector 322 trivial sector 322 33
+
+non trivial sector 306 trivial sector 306 44
+
+non trivial sector 317 17 6
+
+non trivial sector 310 trivial sector 310 5
+
+non trivial sector 326 trivial sector 326 44
+non trivial sector non trivial sector 318 6
+
+non trivial sector 303 66
+
+non trivial sector non trivial sector 325325 4
+
+non trivial sector non trivial sector 287 87 6
+
+non trivial sector 297 44
+non trivial sector 323 23 4
+non trivial sector 315 trivial sector 315 66
+
+non trivial sector 332 trivial sector 332 44
+non trivial sector 327 trivial sector 327 55
+
+non trivial sector 299 99 5
+
+non trivial sector 302 trivial sector 302 5
+non trivial sector 347 47 6
+non trivial sector 329 trivial sector 329 44
+
+non trivial sector 311 trivial sector 311 6
+
+non trivial sector 333 trivial sector 333 5
+non trivial sector 334 5
+non trivial sector 351 trivial sector 351 77
+non trivial sector 319 trivial sector 319 77
+
+non trivial sector 339 trivial sector 339 5
+
+non trivial sector 345 trivial sector 345 55
+
+non trivial sector 341 trivial sector 341 55
+
+non trivial sector 335 6
+non trivial sector 343 trivial sector 343 6
+non trivial sector 349 49 6
+non trivial sector 346 trivial sector 346 55
+
+non trivial sector 331 trivial sector 331 5
+
+non trivial sector 338 38 4
+
+non trivial sector 354 trivial sector 354 4
+
+non trivial sector 330 trivial sector 330 4
+
+non trivial sector 348 trivial sector 348 55
+
+non trivial sector 366 trivial sector 366 66
+
+non trivial sector 370 trivial sector 370 55
+
+non trivial sector 358 58 5
+
+non trivial sector 350 trivial sector 350 66
+
+non trivial sector 364 trivial sector 364 55
+
+non trivial sector 378 66
+
+non trivial sector 363 trivial sector 363 66
+
+non trivial sector 357 trivial sector 357 55
+non trivial sector 375 trivial sector 375 77
+
+non trivial sector 371 trivial sector 371 66
+
+non trivial sector 342 trivial sector 342 55
+
+non trivial sector 373 trivial sector 373 6
+
+non trivial sector 367 trivial sector 367 7
+non trivial sector 361 trivial sector 361 5
+
+non trivial sector 365 trivial sector 365  6
+
+non trivial sector 374 trivial sector 374 66
+
+non trivial sector 379 trivial sector 379 77
+
+non trivial sector 359 trivial sector 359 66
+non trivial sector 355 55 5
+
+non trivial sector 362 trivial sector 362 55
+non trivial sector 383 trivial sector 383 88
+non trivial sector 393 trivial sector 393 44
+non trivial sector 381 trivial sector 381 77
+
+non trivial sector 399 99 6
+
+non trivial sector 396 trivial sector 396 4
+non trivial sector 394 trivial sector 394 4
+
+non trivial sector 382 trivial sector 382 77
+
+non trivial sector 402 trivial sector 402 44
+non trivial sector 377 trivial sector 377 6
+
+non trivial sector 398 98 5
+
+non trivial sector 397 trivial sector 397 5
+
+non trivial sector 380 trivial sector 380 6
+
+non trivial sector 406 trivial sector 406 55
+non trivial sector 392 trivial sector 392 33
+
+non trivial sector 405 trivial sector 405 5
+
+non trivial sector 404 trivial sector 404 44
+non trivial sector non trivial sector 425 25 55
+non trivial sector 395 95 5
+non trivial sector 413 trivial sector 413 66
+non trivial sector 408 trivial sector 408 4
+
+non trivial sector 422 22 5
+non trivial sector 412 12 5
+
+non trivial sector non trivial sector 407 07 6
+
+non trivial sector 403 03 5
+non trivial sector non trivial sector 410 5105
+
+non trivial sector 437 trivial sector 437 66
+non trivial sector 411 11 6
+non trivial sector 420 trivial sector 420 4
+non trivial sector 421 trivial sector 421 5
+non trivial sector 419 trivial sector 419 5
+non trivial sector 427 27 6
+non trivial sector 426 trivial sector 426  5
+
+non trivial sector 435 trivial sector 435 6
+non trivial sector 418 trivial sector 418 4
+
+non trivial sector 423 trivial sector 423 66
+
+non trivial sector 436 36 5
+
+non trivial sector 415 trivial sector 415 77
+non trivial sector 409 trivial sector 409 5
+non trivial sector 434 34 5
+
+non trivial sector non trivial sector 414414 66
+non trivial sector 428 trivial sector 428 55
+
+non trivial sector 443 trivial sector 443 77
+
+non trivial sector 430 trivial sector 430 6
+non trivial sector non trivial sector 440 40 5
+
+non trivial sector 424 trivial sector 424 44
+
+non trivial sector 455 trivial sector 455 66
+non trivial sector 450 50 4
+
+non trivial sector 431 trivial sector 431 7
+
+non trivial sector 444 66
+non trivial sector 454 trivial sector 454 55
+
+non trivial sector 446 trivial sector 446 77
+non trivial sector 442 66
+non trivial sector 453 trivial sector 453 5
+
+non trivial sector 441 trivial sector 441 66
+
+non trivial sector 447 trivial sector 447  8
+
+non trivial sector non trivial sector 457 57 5
+
+non trivial sector 429 trivial sector 429 66
+
+non trivial sector 439 trivial sector 439 7
+
+non trivial sector 452 trivial sector 452 4
+
+non trivial sector 466 trivial sector 466 55
+
+non trivial sector 459 trivial sector 459 66
+
+non trivial sector 460 trivial sector 460 5
+non trivial sector 438 trivial sector 438 6
+
+non trivial sector non trivial sector 463 63 7
+
+non trivial sector 451 trivial sector 451 55
+non trivial sector 456 trivial sector 456 44
+
+non trivial sector non trivial sector 458 55
+non trivial sector 461 66
+non trivial sector 469 66
+non trivial sector non trivial sector 462 66
+non trivial sector 470 trivial sector 470 66
+non trivial sector 476 trivial sector 476 66
+
+non trivial sector 474 trivial sector 474 66
+non trivial sector 484 trivial sector 484 55
+
+non trivial sector 477 trivial sector 477 7
+
+non trivial sector 492 trivial sector 492  6
+
+non trivial sector 482 trivial sector 482 55
+non trivial sector 483 trivial sector 483 66
+
+non trivial sector 467 trivial sector 467 6
+
+non trivial sector 472 72 5
+non trivial sector non trivial sector 471 7
+non trivial sector non trivial sector 479 8
+non trivial sector 468 trivial sector 468 55
+non trivial sector 495 trivial sector 495 8
+
+non trivial sector non trivial sector 489 6
+
+non trivial sector 498 trivial sector 498 6
+
+non trivial sector 487 trivial sector 487 77
+non trivial sector 491 7917
+non trivial sector 486486 66
+non trivial sector 502 trivial sector 502 77
+non trivial sector 473 6
+non trivial sector 490 trivial sector 490 66
+non trivial sector 485 85 6
+
+non trivial sector 493 trivial sector 493 7
+
+non trivial sector 488 trivial sector 488 5
+
+non trivial sector non trivial sector 478 78 7
+
+non trivial sector 445 trivial sector 445 7
+non trivial sector 511 trivial sector 511 99
+
+non trivial sector 475 75 7
+non trivial sector 504 6
+non trivial sector 505 7
+
+non trivial sector 494 trivial sector 494 77
+non trivial sector 499 trivial sector 499 77
+non trivial sector 500 trivial sector 500 6
+non trivial sector 508 7
+
+non trivial sector 507 88
+non trivial sector 503 trivial sector 503 8
+
+non trivial sector 509 88
+non trivial sector 501 01 7
+non trivial sector 510 8
+non trivial sector 506 7
+
+Non trivial sectors in total: 316
+Trivial sectors in total: 196
+( 0.1 s )
+
+Search symmetry relations: 
+
+( 0.0 s )
+***********************************************************
+Prepare Symmetries for the topology: DB
+***********************************************************
+Build symmetries for DB x DB 
+Kira maps this sector 82 to this sector 82
+with external Symmetry 0
+Kira maps this sector 28 to this sector 28
+with external Symmetry 0
+Kira maps this sector 28 to this sector 28
+with external Symmetry 0
+Kira maps this sector 28 to this sector 28
+with external Symmetry 0
+Kira maps this sector 28 to this sector 28
+with external Symmetry 0
+Kira maps this sector 28 to this sector 28
+with external Symmetry 0
+Kira maps this sector 73 to this sector 28
+with external Symmetry 0
+Kira maps this sector 73 to this sector 28
+with external Symmetry 0
+Kira maps this sector 73 to this sector 28
+with external Symmetry 0
+Kira maps this sector 73 to this sector 28
+with external Symmetry 0
+Kira maps this sector 73 to this sector 28
+with external Symmetry 0
+Kira maps this sector 73 to this sector 28
+with external Symmetry 0
+Kira maps this sector 26 to this sector 26
+with external Symmetry 0
+Kira maps this sector 42 to this sector 42
+with external Symmetry 0
+Kira maps this sector 74 to this sector 74
+with external Symmetry 0
+Kira maps this sector 85 to this sector 85
+with external Symmetry 0
+Kira maps this sector 85 to this sector 85
+with external Symmetry 0
+Kira maps this sector 85 to this sector 85
+with external Symmetry 0
+Kira maps this sector 85 to this sector 85
+with external Symmetry 0
+Kira maps this sector 85 to this sector 85
+with external Symmetry 0
+Kira maps this sector 85 to this sector 85
+with external Symmetry 0
+Kira maps this sector 85 to this sector 85
+with external Symmetry 0
+Kira maps this sector 83 to this sector 83
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 114 to this sector 114
+with external Symmetry 0
+Kira maps this sector 86 to this sector 86
+with external Symmetry 0
+Kira maps this sector 29 to this sector 29
+with external Symmetry 0
+Kira maps this sector 89 to this sector 29
+with external Symmetry 0
+Kira maps this sector 89 to this sector 29
+with external Symmetry 0
+Kira maps this sector 77 to this sector 29
+with external Symmetry 0
+Kira maps this sector 77 to this sector 29
+with external Symmetry 0
+Kira maps this sector 92 to this sector 29
+with external Symmetry 0
+Kira maps this sector 92 to this sector 29
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 45 to this sector 45
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 45 to this sector 45
+with external Symmetry 0
+Kira maps this sector 45 to this sector 45
+with external Symmetry 0
+Kira maps this sector 60 to this sector 60
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 105 to this sector 60
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 105 to this sector 60
+with external Symmetry 0
+Kira maps this sector 27 to this sector 27
+with external Symmetry 0
+Kira maps this sector 43 to this sector 43
+with external Symmetry 0
+Kira maps this sector 30 to this sector 30
+with external Symmetry 0
+Kira maps this sector 46 to this sector 46
+with external Symmetry 0
+Kira maps this sector 75 to this sector 75
+with external Symmetry 0
+Kira maps this sector 78 to this sector 78
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 117 to this sector 117
+with external Symmetry 0
+Kira maps this sector 117 to this sector 117
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 117 to this sector 117
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 115 to this sector 115
+with external Symmetry 0
+Kira maps this sector 87 to this sector 87
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 118 to this sector 118
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 109 to this sector 61
+with external Symmetry 0
+Kira maps this sector 121 to this sector 121
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 124 to this sector 121
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 124 to this sector 121
+with external Symmetry 0
+Kira maps this sector 93 to this sector 93
+with external Symmetry 0
+Kira maps this sector 93 to this sector 93
+with external Symmetry 0
+Kira maps this sector 93 to this sector 93
+with external Symmetry 0
+Kira maps this sector 31 to this sector 31
+with external Symmetry 0
+Kira maps this sector 47 to this sector 47
+with external Symmetry 0
+Kira maps this sector 79 to this sector 79
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 119 to this sector 119
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 125 to this sector 125
+with external Symmetry 0
+
+Sector relations: 17
+Sector symmetries: 45
+( 0.0 s )
+
+***********************************************************
+Kira starts the reduction of the topology: DB
+***********************************************************
+
+***** Select equations recursively ************************
+length of mandatory list: 237
+Algebraic reconstruction is switched off.
+562 independent coefficients
+directory to the masters: DB
+Number of master integrals: 31
+DB[1,0,1,0,1,0,1,0,0]  #  85
+DB[0,1,0,0,1,0,1,0,0]  #  82
+DB[0,1,1,0,1,0,1,0,0]  #  86
+DB[1,1,1,0,1,0,1,0,0]  #  87
+DB[0,0,1,1,1,0,0,0,0]  #  28
+DB[1,0,1,1,0,1,0,0,0]  #  45
+DB[0,1,0,1,1,0,0,0,0]  #  26
+DB[0,1,0,1,0,1,0,0,0]  #  42
+DB[-1,1,0,1,0,1,0,0,0] #  42
+DB[0,1,1,1,1,0,0,0,0]  #  30
+DB[-1,1,1,1,1,0,0,0,0] #  30
+DB[0,1,1,1,0,1,0,0,0]  #  46
+DB[1,1,1,1,0,1,0,0,0]  #  47
+DB[1,1,1,1,-1,1,0,0,0] #  47
+DB[0,1,1,1,1,1,0,0,0]  #  62
+DB[-1,1,1,1,1,1,0,0,0] #  62
+DB[0,1,0,1,0,0,1,0,0]  #  74
+DB[-1,1,0,1,0,0,1,0,0] #  74
+DB[1,1,0,1,0,0,1,0,0]  #  75
+DB[0,1,0,1,1,0,1,0,0]  #  90
+DB[-1,1,0,1,1,0,1,0,0] #  90
+DB[0,1,0,1,1,-1,1,0,0] #  90
+DB[1,1,0,1,0,1,1,0,0]  # 107
+DB[1,1,0,1,-1,1,1,0,0] # 107
+DB[0,1,0,1,1,1,1,0,0]  # 122
+DB[-1,1,0,1,1,1,1,0,0] # 122
+DB[0,1,1,1,1,0,1,0,0]  #  94
+DB[0,1,1,1,1,1,1,0,0]  # 126
+DB[1,1,1,1,1,1,1,0,0]  # 127
+DB[1,1,1,1,1,1,1,-1,0] # 127
+DB[1,1,1,1,1,1,1,0,-1] # 127
+
+Number of selected equations to reduce: 0 equations
+
+Number of selected equations to reduce: 0 equations
+Regenerate:
+
+Number of selected equations to reduce: 2984 equations
+( 0.8 s )
+
+***** Select equations recursively ************************
+length of mandatory list: 237
+Loading 2984 equations.
+
+[1;34mFireFly info:[0m Parsed 20959 functions of which 140 are distinct
+
+System loaded in 0.050053 s
+Prime set to 2147483647
+Finished prime
+Average times:
+Parsing: 0.000 s
+Forward: 0.008 s
+Backsubs: 0.001 s
+
+One variable is set to 1: {}
+Total time:
+( 3.8 s )
