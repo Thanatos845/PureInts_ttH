@@ -1,0 +1,15 @@
+integralfamilies:
+  - name: "DB"
+    loop_momenta: [k1,k2]
+    top_level_sectors: [b111111100]
+    permutation_option: 1
+    propagators:
+      - [ "k1", 0]
+      - [ "k1 + p1", 0]
+      - [ "k1 + p1 + p2 ", 0]
+      - [ "k2-k1", 0]
+      - [ "k2 + p1 + p2", 0]
+      - [ "k2 + p1 + p2 +p3 ", mTsq]
+      - [ "k2", 0]
+      - [ "k2 - p2", 0]
+      - [ "k1 + p1 + p2 + p3", 0]
